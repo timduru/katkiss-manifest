@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
-           fetch=".." />
-  <default revision="refs/tags/android-4.0.1_r1"
-           remote="aosp"
-           sync-j="4" />
+  <remote  name="tiamat-aosp"
+           fetch=".."
+           review="https://review.teamtiam.at/" />
+  <default revision="ics"
+           remote="tiamat-aosp"
+           >
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
