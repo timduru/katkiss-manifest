@@ -6,7 +6,7 @@
            review="https://review.teamtiam.at/" />
   <default revision="ics"
            remote="tiamat-aosp"
-           >
+           />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -232,4 +232,6 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
 
+  <project path="device/motorola/stingray" name="device/motorola/stingray" />
+  <project path="device/asus/tf101" name="device/asus/tf101" />
 </manifest>
