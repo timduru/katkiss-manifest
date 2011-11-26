@@ -237,4 +237,5 @@
 
   <project path="packages/apps/Superuser" name="eos/platform/packages/apps/Superuser" />
   <project path="external/su" name="eos/platform/external/su" />
+  <project path="external/busybox" name="eos/platform/external/busybox" />
 </manifest>
