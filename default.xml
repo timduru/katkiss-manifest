@@ -235,6 +235,6 @@
   <project path="device/motorola/stingray" name="eos/device/motorola/stingray" />
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
 
-  <project path="packages/app/Superuser" name="eos/platform/packages/apps/Superuser" />
+  <project path="packages/apps/Superuser" name="eos/platform/packages/apps/Superuser" />
   <project path="external/su" name="eos/platform/external/su" />
 </manifest>
