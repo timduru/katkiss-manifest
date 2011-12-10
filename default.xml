@@ -240,4 +240,5 @@
   <project path="external/busybox" name="eos/platform/external/busybox" />
   <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
+  <project path="vendor/eos" name="eos/platform/vendor/eos" />
 </manifest>
