@@ -232,7 +232,14 @@
   <project path="system/netd" name="eos/platform/system/netd" />
   <project path="system/vold" name="eos/platform/system/vold" />
 
-  <project path="device/motorola/stingray" name="eos/device/motorola/stingray" />
+  <project path="device/moto/common" name="eos/device/moto/common" />
+  <project path="device/moto/stingray" name="eos/device/moto/stingray" />
+  <project path="device/moto/wingray" name="eos/device/moto/wingray" />
+  <project path="device/samsung/crespo" name="eos/device/samsung/crespo" />
+  <project path="device/samsung/crespo4g" name="eos/device/samsung/crespo4g" />
+  <project path="device/samsung/toro" name="eos/device/samsung/toro" />
+  <project path="external/libyuv" name="eos/platform/external/libyuv" />
+
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
 
   <project path="packages/apps/Superuser" name="eos/platform/packages/apps/Superuser" />
@@ -241,4 +248,5 @@
   <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
   <project path="vendor/eos" name="eos/platform/vendor/eos" />
+  <project path="packages/apps/AndroidTerminalEmulator" name="eos/platform/packages/apps/AndroidTerminalEmulator" />
 </manifest>
