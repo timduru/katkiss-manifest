@@ -3,7 +3,8 @@
 
   <remote  name="eos"
            fetch="git://git.teameos.org/"
-           review="https://review.teameos.org/" />
+           review="https://review.teameos.org/"
+           sync-j="4" />
   <default revision="ics"
            remote="eos"
            />
