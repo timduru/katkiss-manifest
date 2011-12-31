@@ -250,4 +250,5 @@
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
   <project path="vendor/eos" name="eos/platform/vendor/eos" />
   <project path="packages/apps/AndroidTerminalEmulator" name="eos/platform/packages/apps/AndroidTerminalEmulator" />
+  <project path="packages/apps/EosOverclockHelper" name="eos/platform/packages/apps/EosOverclockHelper" />
 </manifest>
