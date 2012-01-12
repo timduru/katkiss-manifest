@@ -242,6 +242,7 @@
   <project path="external/libyuv" name="eos/platform/external/libyuv" />
 
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
+  <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
 
   <project path="packages/apps/Superuser" name="eos/platform/packages/apps/Superuser" />
   <project path="external/su" name="eos/platform/external/su" />
