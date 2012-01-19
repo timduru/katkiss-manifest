@@ -253,4 +253,6 @@
   <project path="vendor/eos" name="eos/platform/vendor/eos" />
   <project path="packages/apps/AndroidTerminalEmulator" name="eos/platform/packages/apps/AndroidTerminalEmulator" />
   <project path="packages/apps/EosOverclockHelper" name="eos/platform/packages/apps/EosOverclockHelper" />
+  <project path="packages/apps/EosStorageHelper" name="eos/platform/packages/apps/EosStorageHelper" />
+  <project path="external/ntfs-3g" name="eos/platform/external/ntfs-3g" />
 </manifest>
