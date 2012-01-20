@@ -255,4 +255,7 @@
   <project path="packages/apps/EosOverclockHelper" name="eos/platform/packages/apps/EosOverclockHelper" />
   <project path="packages/apps/EosStorageHelper" name="eos/platform/packages/apps/EosStorageHelper" />
   <project path="external/ntfs-3g" name="eos/platform/external/ntfs-3g" />
+  <project path="external/ncurses" name="eos/platform/external/ncurses" />
+  <project path="external/libnl" name="eos/platform/external/libnl" />
+  <project path="external/powertop" name="eos/platform/external/powertop" />
 </manifest>
