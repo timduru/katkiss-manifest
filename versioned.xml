@@ -204,7 +204,7 @@
   <project name="eos/platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="3fe73d8f337a7ea3db8bf1b3d56c7090d3da"/>
   <project name="eos/platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="411c0633d07771268c939ecc8c24fd8d4b16"/>
   <project name="eos/platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="148cdc79bde4b009ccb6a9ffda77bdb547d3"/>
-  <project name="eos/platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="2c367b05928958e02b5b5f08145b55a9c5b9"/>
+  <project name="eos/platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="9275ae8ba53d24b910217cd5c3f2f52d083e"/>
   <project name="eos/platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="3d669e2e80d2a52d7ae2567006afc7a765fd"/>
   <project name="eos/platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="67ddf32844a8703d108634bec16013a37e53"/>
   <project name="eos/platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
