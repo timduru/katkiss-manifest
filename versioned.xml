@@ -136,7 +136,7 @@
   <project name="eos/platform/external/webrtc" path="external/webrtc" revision="c1ec58105d17dc8c2f550124cc0621dc93b7"/>
   <project name="eos/platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="9741980d46328c4ef5f986bf7d7cec736a25"/>
   <project name="eos/platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="dea07212e99beb0ef9b1ef1e9e2c3d48482d"/>
-  <project name="eos/platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="c7e356cfb7115da7c271a5fb59fbab7c8a66"/>
+  <project name="eos/platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="fc3956026dfad1ad2a080e7166ef32bd397f"/>
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="801bd16a495e1c1666669fe827b1ddb8d56b"/>
@@ -204,7 +204,7 @@
   <project name="eos/platform/packages/inputmethods/PinyinIME" path="packages/inputmethods/PinyinIME" revision="3fe73d8f337a7ea3db8bf1b3d56c7090d3da"/>
   <project name="eos/platform/packages/providers/ApplicationsProvider" path="packages/providers/ApplicationsProvider" revision="411c0633d07771268c939ecc8c24fd8d4b16"/>
   <project name="eos/platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="148cdc79bde4b009ccb6a9ffda77bdb547d3"/>
-  <project name="eos/platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="608c5c76409061d35d95eedb828c842366a8"/>
+  <project name="eos/platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="2c367b05928958e02b5b5f08145b55a9c5b9"/>
   <project name="eos/platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="3d669e2e80d2a52d7ae2567006afc7a765fd"/>
   <project name="eos/platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="67ddf32844a8703d108634bec16013a37e53"/>
   <project name="eos/platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="c7a0cfba5df74b213b1fc8286c6e3f2ddaa2"/>
