@@ -140,7 +140,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="b7a541e735e872cf3d810cc65b12b6583ed4"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="8fc2c1bd3f9ec40c8d4ad8d31a35811829ea"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0d678d2a8aa28c6f38cccebfa3da2f78df4a"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="07bde03589e5587c93b25f0ac2b9ee93c27a"/>
@@ -230,7 +230,7 @@
 
   <project name="eos/device/moto/common" path="device/moto/common" revision="f2b4fcf01b3e3a2d9dcaf6e03449865ea251"/>
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="25ad921df2ebcccf02ecd5112b25977bda44"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="dd6ad7ffca4b26dfec1c27e4b0db07862b85"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="6b0a8c509ac0dc61e9114a3bbebc03dc85ae"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="ac3b9f8a53a5c433dc7d3cfa2fb5d45a7eb9"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="a104f257fdf0946d28e2dcaab549d3bbeaa9"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="f880563c4aa274e84990bc0c36c78a96a6fe"/>
@@ -238,7 +238,7 @@
 
   <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="e288455ba6a1e2f90dd367b9f338329d04fa"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="5e9eebaa4913ca096ffdf8cc1025e9b0f908"/>
-  <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="29d6dc0f68baa9538c389dc0b451768bb0b9"/>
+  <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7580400b83b067aab802711efa8e7e9ab89e"/>
 
   <project name="eos/platform/packages/apps/Superuser" path="packages/apps/Superuser" revision="db04a353538ef2ffff07eadda096748cfc89"/>
   <project name="eos/platform/external/su" path="external/su" revision="e3701c1d00c7c59ac27fdaf1a468ac62df25"/>
