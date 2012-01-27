@@ -230,7 +230,7 @@
 
   <project name="eos/device/moto/common" path="device/moto/common" revision="f2b4fcf01b3e3a2d9dcaf6e03449865ea251"/>
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="45ddcbf27b671ff09f27f8d973977deacf47"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="d2b4877bf07435c896878291aabd67d74ead"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="b5fbbcd53af3faa05761331f2bdc819c1b76"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="ac3b9f8a53a5c433dc7d3cfa2fb5d45a7eb9"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="a104f257fdf0946d28e2dcaab549d3bbeaa9"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="cb8e53f5f35facfbb97ae1e7670b3c03826f"/>
