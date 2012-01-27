@@ -20,7 +20,7 @@
   <project name="eos/device/google/accessory/arduino" path="device/google/accessory/arduino" revision="f69828775a15396b753c16a83417bb769138"/>
   <project name="eos/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="0f59498895a58dcc3d0ab8fb03683e123ded"/>
   <project name="eos/device/sample" path="device/sample" revision="dc20b0116fb3f01795c1ace14fc3632ea07b"/>
-  <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="9f3f607b203f4ab15c27ec8eb22f8e633a3f"/>
+  <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="8888093dc505654972d9f134893d480f2688"/>
   <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="716e7367408b248690d5c213a4dcae3aab73"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="7271868712b08cdc55e0a690b21362e82b0f"/>
   <project name="eos/platform/docs/source.android.com" path="docs/source.android.com" revision="e3c0421419ca84ad272f5fc2f3599d6bfde0"/>
