@@ -237,7 +237,7 @@
   <project name="eos/platform/external/libyuv" path="external/libyuv" revision="58316957352685f15674ee5bd71726dc993e"/>
 
   <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="e288455ba6a1e2f90dd367b9f338329d04fa"/>
-  <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="5e9eebaa4913ca096ffdf8cc1025e9b0f908"/>
+  <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="7e10e09d411f2235a0b05ef49af7f4fca424"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7580400b83b067aab802711efa8e7e9ab89e"/>
 
   <project name="eos/platform/packages/apps/Superuser" path="packages/apps/Superuser" revision="db04a353538ef2ffff07eadda096748cfc89"/>
