@@ -242,7 +242,7 @@
 
   <project name="eos/platform/packages/apps/Superuser" path="packages/apps/Superuser" revision="db04a353538ef2ffff07eadda096748cfc89"/>
   <project name="eos/platform/external/su" path="external/su" revision="e3701c1d00c7c59ac27fdaf1a468ac62df25"/>
-  <project name="eos/platform/external/busybox" path="external/busybox" revision="6d91f54fd613f3a3b0993c7b3eeda2a59400"/>
+  <project name="eos/platform/external/busybox" path="external/busybox" revision="0f7ee094960a6733cd0c0b4b22d54f3a20e6"/>
   <project name="eos/platform/external/iwmulticall" path="external/iwmulticall" revision="004d44789734003ccfab6343d8329a0a1039"/>
   <project name="eos/platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0a82f66de9379c5e37d5dd0831a70cb6f236"/>
   <project name="eos/platform/vendor/eos" path="vendor/eos" revision="f58cf1e30ce5a0d84f95f85e3427676d51db"/>
