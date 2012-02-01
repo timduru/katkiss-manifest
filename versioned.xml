@@ -21,7 +21,7 @@
   <project name="eos/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="0f59498895a58dcc3d0ab8fb03683e123ded"/>
   <project name="eos/device/sample" path="device/sample" revision="dc20b0116fb3f01795c1ace14fc3632ea07b"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="8888093dc505654972d9f134893d480f2688"/>
-  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="716e7367408b248690d5c213a4dcae3aab73"/>
+  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="e050d2fd8fdd39da8c6797102a6a3da4ee0f"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="7271868712b08cdc55e0a690b21362e82b0f"/>
   <project name="eos/platform/docs/source.android.com" path="docs/source.android.com" revision="e3c0421419ca84ad272f5fc2f3599d6bfde0"/>
   <project name="eos/platform/external/android-mock" path="external/android-mock" revision="73886c61d4b2e96bab98b50c1cbfcb54d9a3"/>
