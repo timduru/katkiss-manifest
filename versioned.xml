@@ -245,7 +245,7 @@
   <project name="eos/platform/external/busybox" path="external/busybox" revision="0f7ee094960a6733cd0c0b4b22d54f3a20e6"/>
   <project name="eos/platform/external/iwmulticall" path="external/iwmulticall" revision="004d44789734003ccfab6343d8329a0a1039"/>
   <project name="eos/platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0a82f66de9379c5e37d5dd0831a70cb6f236"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="f58cf1e30ce5a0d84f95f85e3427676d51db"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="11328126648c71755d9998a95dc1d76fec78"/>
   <project name="eos/platform/packages/apps/AndroidTerminalEmulator" path="packages/apps/AndroidTerminalEmulator" revision="33be8b3e424a919325e4e7d21e3bdc5abeb0"/>
   <project name="eos/platform/packages/apps/EosOverclockHelper" path="packages/apps/EosOverclockHelper" revision="741994a90572f199450719bd6388cb783dd6"/>
   <project name="eos/platform/packages/apps/EosStorageHelper" path="packages/apps/EosStorageHelper" revision="8051eebc0565867279e9955b2e6c4e907799"/>
