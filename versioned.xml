@@ -176,7 +176,7 @@
   <project name="eos/platform/ndk" path="ndk" revision="aa49e372cc5465f25c494ce0e1b419cde4cd"/>
   <project name="eos/platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="ddcaef65c5132a356f861a6948e76a5db86c"/>
   <project name="eos/platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="7befca4aa6b3d55b6d23103b75ee54ff6e89"/>
-  <project name="eos/platform/packages/apps/Browser" path="packages/apps/Browser" revision="6ba698c7c44c277cd6af001725b12be3effc"/>
+  <project name="eos/platform/packages/apps/Browser" path="packages/apps/Browser" revision="8ef5aa47856b23d1ee0d9a99a5d7a814c894"/>
   <project name="eos/platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="be9e0d54250d656c4a6c245ec0b5335ccae2"/>
   <project name="eos/platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="390618cd2bb61d1ace7c85703adf60ada44c"/>
   <project name="eos/platform/packages/apps/Camera" path="packages/apps/Camera" revision="bc0fe8ff921496a30fc51dcbbb32eb58c3f2"/>
