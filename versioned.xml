@@ -4,7 +4,7 @@
   <remote fetch="git://git.teameos.org/" name="eos" review="https://review.teameos.org/" sync-j="4"/>
   <default remote="eos" revision="ics"/>
 
-  <project name="eos/platform/build" path="build" revision="649bcb1f582f28d2632d71e000bc157963e2">
+  <project name="eos/platform/build" path="build" revision="bdf84e2ff9c21ee7917ee070b410af97cf1c">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="040f1be4a844082c9769171ce7f5341a5528"/>
@@ -21,7 +21,7 @@
   <project name="eos/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="0f59498895a58dcc3d0ab8fb03683e123ded"/>
   <project name="eos/device/moto/common" path="device/moto/common" revision="f2b4fcf01b3e3a2d9dcaf6e03449865ea251"/>
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="5996a22cd9a7ef478eab0ab65f81d01418b0"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="50c08fd0bbd62be16d8dcfee86d643744dd3"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="075c77cd01ee5d8573cf19fd445887902311"/>
   <project name="eos/device/sample" path="device/sample" revision="e76cd045dd4a28b67c7865a85c014ec3b53f"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="34635e95e8f7aa183221e71df9858ccc1ad3"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="783ca764067010cc73eeff9f67a962c38791"/>
@@ -239,7 +239,7 @@
   <project name="eos/platform/system/extras" path="system/extras" revision="10f03a048e9f2970ec39d6742fde093c16db"/>
   <project name="eos/platform/system/media" path="system/media" revision="907cc1991fd56c008cb5042d8d3d2d0db51f"/>
   <project name="eos/platform/system/netd" path="system/netd" revision="1c31fede2d6a898892bdf9e9b34618da9756"/>
-  <project name="eos/platform/system/vold" path="system/vold" revision="072a5d6f6bda32123b367545649364e3c11d"/>
+  <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
   <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="e288455ba6a1e2f90dd367b9f338329d04fa"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="7e10e09d411f2235a0b05ef49af7f4fca424"/>
@@ -249,7 +249,7 @@
   <project name="eos/platform/external/su" path="external/su" revision="e3701c1d00c7c59ac27fdaf1a468ac62df25"/>
   <project name="eos/platform/external/busybox" path="external/busybox" revision="0f7ee094960a6733cd0c0b4b22d54f3a20e6"/>
   <project name="eos/platform/external/iwmulticall" path="external/iwmulticall" revision="004d44789734003ccfab6343d8329a0a1039"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="1a8c481e6815263b31328a99c1f9c2b1acb1"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="b8e45f8bc32aeb31a404a393092c4adf831a"/>
   <project name="eos/platform/packages/apps/AndroidTerminalEmulator" path="packages/apps/AndroidTerminalEmulator" revision="33be8b3e424a919325e4e7d21e3bdc5abeb0"/>
   <project name="eos/platform/packages/apps/EosOverclockHelper" path="packages/apps/EosOverclockHelper" revision="741994a90572f199450719bd6388cb783dd6"/>
   <project name="eos/platform/packages/apps/EosStorageHelper" path="packages/apps/EosStorageHelper" revision="8051eebc0565867279e9955b2e6c4e907799"/>
