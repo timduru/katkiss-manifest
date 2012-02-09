@@ -148,7 +148,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="074d2c173878dcc949bcabdf105f0351c5c6"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="44007ce42f02975975f5eb9d0b7eb286e233"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="09bf00a5d3be4caaa8f1b6a062a2d0311e9a"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="aceff130e2c37fdfc34eeb8dbf0ab0a2ac5b"/>
