@@ -4,7 +4,7 @@
   <remote fetch="git://git.teameos.org/" name="eos" review="https://review.teameos.org/" sync-j="4"/>
   <default remote="eos" revision="ics"/>
 
-  <project name="eos/platform/build" path="build" revision="bdf84e2ff9c21ee7917ee070b410af97cf1c">
+  <project name="eos/platform/build" path="build" revision="a297846d9b59947a1f1572d3499cc435ad28">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="040f1be4a844082c9769171ce7f5341a5528"/>
