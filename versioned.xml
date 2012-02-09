@@ -258,5 +258,5 @@
   <project name="eos/platform/external/libnl" path="external/libnl" revision="553f0f4636dd40e84d320a576b3de7b95357"/>
   <project name="eos/platform/external/powertop" path="external/powertop" revision="19b7413e8384679cdc643b09b301b9ed4f48"/>
   <project name="eos/platform/packages/apps/CSLauncher" path="packages/apps/CSLauncher" revision="536e6081270bd603c6c653a2ab652d52d985"/>
-  <project name="eos/platform/packages/apps/CSPanel" path="packages/apps/CSPanel" revision="f6c63e4cfd56742141034967ac4dc49e3d61"/>
+  <project name="eos/platform/packages/apps/CSPanel" path="packages/apps/CSPanel" revision="1de15276db2d3c8271c90ecff055a3cf9260"/>
 </manifest>
