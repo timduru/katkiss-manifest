@@ -262,6 +262,4 @@
   <project path="external/ncurses" name="eos/platform/external/ncurses" />
   <project path="external/libnl" name="eos/platform/external/libnl" />
   <project path="external/powertop" name="eos/platform/external/powertop" />
-  <project path="packages/apps/CSLauncher" name="eos/platform/packages/apps/CSLauncher" />
-  <project path="packages/apps/CSPanel" name="eos/platform/packages/apps/CSPanel" />
 </manifest>
