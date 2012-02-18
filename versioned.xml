@@ -144,11 +144,11 @@
   <project name="eos/platform/external/webrtc" path="external/webrtc" revision="c1ec58105d17dc8c2f550124cc0621dc93b7"/>
   <project name="eos/platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="9741980d46328c4ef5f986bf7d7cec736a25"/>
   <project name="eos/platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="dea07212e99beb0ef9b1ef1e9e2c3d48482d"/>
-  <project name="eos/platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="f83eabf5b81b8b842dc723b71dc5cb48935d"/>
+  <project name="eos/platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="cf0c57222214708eac4db861405aca7d76f6"/>
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="8c9c819b69c09c961a8e4b5266afb58e8575"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="93542f9786ac5b85446e2d97ce41058b35d5"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="09bf00a5d3be4caaa8f1b6a062a2d0311e9a"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="aceff130e2c37fdfc34eeb8dbf0ab0a2ac5b"/>
@@ -184,7 +184,7 @@
   <project name="eos/platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="041136b14e4ee98d3e53837c7dff6d54402b"/>
   <project name="eos/platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="9d5884339dc450831dd453bbb77b4e77d9e5"/>
   <project name="eos/platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="6ea4d449175040e2b4db861dbf54034ee38a"/>
-  <project name="eos/platform/packages/apps/Email" path="packages/apps/Email" revision="f6c9c4294e9f537d499911b792c89bec2b3c"/>
+  <project name="eos/platform/packages/apps/Email" path="packages/apps/Email" revision="905fe1d89f77bd44666a6789a16e8af72a29"/>
   <project name="eos/platform/packages/apps/Exchange" path="packages/apps/Exchange" revision="e5a6af66a55346977e34f958fd241973eecb"/>
   <project name="eos/platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="dc5d259b0fb0c1f4d679409ad0f98c4107f9"/>
   <project name="eos/platform/packages/apps/Gallery2" path="packages/apps/Gallery2" revision="7ee0f0f3e0b1e2424f64a0c0912d4c19bf19"/>
@@ -200,7 +200,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="fe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="ba2f40fe38188840c64978bc1d29008ed27e"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="c687542ef3ac11c1fb4b648bc903b591d2f8"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="3cac2adb10ac395a31b8c9b15a3065bc2052"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="e320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="01ade214315a241528540d7e98ac92c9d4e2"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="5a57805c5409f990959dcad25c67a82ec16d"/>
