@@ -3,7 +3,7 @@
 
   <remote fetch="git://git.teameos.org/" name="eos" review="https://review.teameos.org/" sync-j="4"/>
 
-  <remote fetch="http://github.com/" name="github"/>
+  <remote fetch="git://github.com/" name="github"/>
 
   <default remote="eos" revision="ics"/>
 
