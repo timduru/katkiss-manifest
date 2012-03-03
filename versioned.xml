@@ -30,7 +30,7 @@
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="783ca764067010cc73eeff9f67a962c38791"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="810e14789c13b0455a8efc07c699258553fa"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="3d4caf4df75bfcaa93656f08d1c829e2423c"/>
-  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="eebffbc02e883971932faa62d2c4e4e2bb7d"/>
+  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="3bce3e0f7c96376b71e7002dc8c1197b43f3"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="5b64cf0c2f4b78350e8d04072e95225d2e50"/>
   <project name="eos/platform/docs/source.android.com" path="docs/source.android.com" revision="4366a146b90112d4378ee10f162a3412ea0c"/>
   <project name="eos/platform/external/android-mock" path="external/android-mock" revision="73886c61d4b2e96bab98b50c1cbfcb54d9a3"/>
@@ -244,7 +244,7 @@
   <project name="eos/platform/system/netd" path="system/netd" revision="1c31fede2d6a898892bdf9e9b34618da9756"/>
   <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="8cccda77e81800ca3347cd822be4a546e519"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="ad90971964f52b5c176b0aa8b23155aeb594"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="7e10e09d411f2235a0b05ef49af7f4fca424"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="3912005c8efb2c3801c14f47acce55f62967"/>
 
