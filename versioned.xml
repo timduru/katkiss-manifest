@@ -203,7 +203,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="fe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="ba2f40fe38188840c64978bc1d29008ed27e"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="b1f506170fffb5418c094ff362e97ae98149"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="45a5069643ebe8e8e406d3d8bd29a3c161e9"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="e320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="01ade214315a241528540d7e98ac92c9d4e2"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="5a57805c5409f990959dcad25c67a82ec16d"/>
