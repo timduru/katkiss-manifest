@@ -151,7 +151,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="53cff3ba0dea57e0531a0314900a8c736e71"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="ebd863c4cf78aeff7bdb903bfac4dbdabe64"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="09bf00a5d3be4caaa8f1b6a062a2d0311e9a"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="aceff130e2c37fdfc34eeb8dbf0ab0a2ac5b"/>
@@ -244,7 +244,7 @@
   <project name="eos/platform/system/netd" path="system/netd" revision="1c31fede2d6a898892bdf9e9b34618da9756"/>
   <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="ad90971964f52b5c176b0aa8b23155aeb594"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="b28d6d08cb6a7a65346fd58a8a618b666d7d"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="7e10e09d411f2235a0b05ef49af7f4fca424"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="3912005c8efb2c3801c14f47acce55f62967"/>
 
