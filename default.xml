@@ -5,6 +5,10 @@
            fetch="git://git.teameos.org/"
            review="https://review.teameos.org/"
            sync-j="4" />
+
+  <remote   name="github"
+            fetch="git://github.com/" />
+
   <default revision="ics"
            remote="eos"
            />
@@ -266,4 +270,6 @@
   <project path="external/ncurses" name="eos/platform/external/ncurses" />
   <project path="external/libnl" name="eos/platform/external/libnl" />
   <project path="external/powertop" name="eos/platform/external/powertop" />
+
+  <project path="packages/apps/GooManagerPrebuilt" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
 </manifest>
