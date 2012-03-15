@@ -104,6 +104,8 @@
   <project path="external/libpcap" name="eos/platform/external/libpcap" />
   <project path="external/libphonenumber" name="eos/platform/external/libphonenumber" />
   <project path="external/libpng" name="eos/platform/external/libpng" />
+  <project path="external/libselinux" name="eos/platform/external/libselinux" />
+  <project path="external/libsepol" name="eos/platform/external/libsepol" />
   <project path="external/libusb" name="eos/platform/external/libusb" />
   <project path="external/libusb-compat" name="eos/platform/external/libusb-compat" />
   <project path="external/libvpx" name="eos/platform/external/libvpx" />
@@ -136,6 +138,7 @@
   <project path="external/quake" name="eos/platform/external/quake" />
   <project path="external/replicaisland" name="eos/platform/external/replicaisland" />
   <project path="external/safe-iop" name="eos/platform/external/safe-iop" />
+  <project path="external/sepolicy" name="eos/platform/external/sepolicy" />
   <project path="external/skia" name="eos/platform/external/skia" />
   <project path="external/sonivox" name="eos/platform/external/sonivox" />
   <project path="external/speex" name="eos/platform/external/speex" />
@@ -185,6 +188,7 @@
   <project path="hardware/ti/omap3" name="eos/platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="eos/platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
+  <project path="hardware/ti/wpan" name="eos/platform/hardware/ti/wpan" />
   <project path="libcore" name="eos/platform/libcore" />
   <project path="ndk" name="eos/platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="eos/platform/packages/apps/BasicSmsReceiver" />
