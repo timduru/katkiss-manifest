@@ -24,7 +24,7 @@
   <project name="eos/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="0f59498895a58dcc3d0ab8fb03683e123ded"/>
   <project name="eos/device/moto/common" path="device/moto/common" revision="f2b4fcf01b3e3a2d9dcaf6e03449865ea251"/>
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="5996a22cd9a7ef478eab0ab65f81d01418b0"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="bac1748ef79ee75948a93f185247c4de3e14"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="a3baeeaa1491aa0671e2a5dfbc9eb5f9e2cb"/>
   <project name="eos/device/sample" path="device/sample" revision="e76cd045dd4a28b67c7865a85c014ec3b53f"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="34635e95e8f7aa183221e71df9858ccc1ad3"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="783ca764067010cc73eeff9f67a962c38791"/>
@@ -158,7 +158,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="9f2d2919e7f242f23c10bc9f4ef02510e6c0"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="47c20c345d8e99b7830c5399f608ffe93da0"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="ac450e8626f4dbc33f24a7d669a411949a59"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="5479f5740de231117ea47d3a6e9b477b173d"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="269278855ee5f39561e195006ee6139bd609"/>
