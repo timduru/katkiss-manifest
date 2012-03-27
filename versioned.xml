@@ -158,7 +158,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="64fa08930ba2137a100fbdaa9f61077a86a9"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="906b5d9bdee55bc9c5f34461369a7e544cf9"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="ac450e8626f4dbc33f24a7d669a411949a59"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="5479f5740de231117ea47d3a6e9b477b173d"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="269278855ee5f39561e195006ee6139bd609"/>
@@ -211,7 +211,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="fe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="ba2f40fe38188840c64978bc1d29008ed27e"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="8c2eef37c59040734ed6d53080c787b6a93c"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="c7dd5ea379d56ef34ac646310a696d24cade"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="e320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="01ade214315a241528540d7e98ac92c9d4e2"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="5a57805c5409f990959dcad25c67a82ec16d"/>
