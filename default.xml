@@ -9,7 +9,7 @@
   <remote   name="github"
             fetch="git://github.com/" />
 
-  <default revision="master"
+  <default revision="ics"
            remote="eos"
            />
 
