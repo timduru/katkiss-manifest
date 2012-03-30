@@ -24,7 +24,7 @@
   <project name="eos/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="0f59498895a58dcc3d0ab8fb03683e123ded"/>
   <project name="eos/device/moto/common" path="device/moto/common" revision="f2b4fcf01b3e3a2d9dcaf6e03449865ea251"/>
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="acdee7b7efb1cd4c8c0e3c7d4340578d5a89"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="f0792aac07e2d79ff6c8aa6430c4ca7c9d79"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="78e87c839ccf13c8fe57005850ef71bddc33"/>
   <project name="eos/device/sample" path="device/sample" revision="f08bca67cac37f10b9806deb250819c252a8"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="e86dd019c146d1e9671cb2e9efd9fc009400"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="fb8e9d661e9b00d7fb0e45a66de2a8a50dd0"/>
@@ -161,7 +161,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="c2994c09e74065fe8fa56bf83d2966dad798"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="7a01776bb9a8316c4d7c00f216abe98c89c2"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="e0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="5479f5740de231117ea47d3a6e9b477b173d"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="afd3ffdf8db5fd3a07217e40b427e4f43870"/>
@@ -190,7 +190,7 @@
   <project name="eos/platform/ndk" path="ndk" revision="53665736f794f6c0008eeb4b42b6213b4179"/>
   <project name="eos/platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="ddcaef65c5132a356f861a6948e76a5db86c"/>
   <project name="eos/platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="b62a9cacfc28fc6a8b4b1e42a1aded82ca23"/>
-  <project name="eos/platform/packages/apps/Browser" path="packages/apps/Browser" revision="a759bdaf3a899c6de25ab57b548a39b927cc"/>
+  <project name="eos/platform/packages/apps/Browser" path="packages/apps/Browser" revision="ae72e2e400b6b410b8c38d044925646852b0"/>
   <project name="eos/platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="015bba1f10f38de818f366c398c2444aff43"/>
   <project name="eos/platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="5ad9b4de3cd088c05b1dd2961e7cdc80f778"/>
   <project name="eos/platform/packages/apps/Camera" path="packages/apps/Camera" revision="1b987689dd628dab0a6c13856d90a733ef43"/>
@@ -214,7 +214,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="fe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="fb6de308e01325e52092d1846c39cc86070a"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="c4c9d6c50c18fa3a228342d810f9280c3347"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="7b8f815e8fd202eeb27a76feed8f85add19c"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="e320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="ed53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="5a57805c5409f990959dcad25c67a82ec16d"/>
@@ -257,7 +257,7 @@
   <project name="eos/platform/system/netd" path="system/netd" revision="45930d60a366734bbf70c3b60332a606c01e"/>
   <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="8e561aa636630e7c11965d8ab21a996e6c80"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="1d3f701fdbbfbc20afaa9a657fcd25c46d1b"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="04335937cf5980fa053bd4c6e2eb08e01509"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="9dbc6e9b81c3db5750011b90a52923c11781"/>
 
@@ -276,7 +276,7 @@
 
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="d4f6e9c8a0fe6424c69d1128ba71d4270de0"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="dd6382296903f07469272a6fdc1c3b24a2d8"/>
-  <project name="eos/platform/vendor/moto" path="vendor/moto" revision="0926ba77960f090dbe097dab1b7c0b3700ab"/>
+  <project name="eos/platform/vendor/moto" path="vendor/moto" revision="d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="b454869983c6f8e4778dca6cb72e50a9db7a"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="a4aefa1fd90c94fc2b1127154010754ee4c7"/>
 
