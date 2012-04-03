@@ -257,7 +257,7 @@
   <project name="eos/platform/system/netd" path="system/netd" revision="45930d60a366734bbf70c3b60332a606c01e"/>
   <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="72c5132241ea1878ab041af1db1a48229f93"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="28ed147dbf761d6ca1f5a95a75f3b8beabe2"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="04335937cf5980fa053bd4c6e2eb08e01509"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="9dbc6e9b81c3db5750011b90a52923c11781"/>
 
