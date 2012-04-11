@@ -264,6 +264,7 @@
   <project path="system/vold" name="eos/platform/system/vold" />
 
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
+  <project path="device/asus/tf201" name="eos/device/asus/tf201" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
 
