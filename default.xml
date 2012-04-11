@@ -281,6 +281,7 @@
   <project path="external/libnl" name="eos/platform/external/libnl" />
   <project path="external/powertop" name="eos/platform/external/powertop" />
 
+  <project path="vendor/asus" name="eos/platform/vendor/asus" />
   <project path="vendor/broadcom" name="eos/platform/vendor/broadcom" />
   <project path="vendor/imgtec" name="eos/platform/vendor/imgtec" />
   <project path="vendor/moto" name="eos/platform/vendor/moto" />
