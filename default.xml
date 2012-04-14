@@ -56,6 +56,7 @@
   <project path="external/bouncycastle" name="eos/platform/external/bouncycastle" />
   <project path="external/bsdiff" name="eos/platform/external/bsdiff" />
   <project path="external/bzip2" name="eos/platform/external/bzip2" />
+  <project path="external/checkpolicy" name="eos/platform/external/checkpolicy" />
   <project path="external/chromium" name="eos/platform/external/chromium" />
   <project path="external/clang" name="eos/platform/external/clang" />
   <project path="external/collada" name="eos/platform/external/collada" />
@@ -66,6 +67,7 @@
   <project path="external/dropbear" name="eos/platform/external/dropbear" />
   <project path="external/e2fsprogs" name="eos/platform/external/e2fsprogs" />
   <project path="external/easymock" name="eos/platform/external/easymock" />
+  <project path="external/eclipse-basebuilder" name="eos/platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="eos/platform/external/eclipse-windowbuilder" />
   <project path="external/elfutils" name="eos/platform/external/elfutils" />
   <project path="external/embunit" name="eos/platform/external/embunit" />
@@ -251,8 +253,10 @@
   <project path="packages/wallpapers/NoiseField" name="eos/platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="eos/platform/packages/wallpapers/PhaseBeam" />
   <project path="prebuilt" name="eos/platform/prebuilt" />
+  <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" name="eos/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="eos/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="eos/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
+  <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" />
   <project path="prebuilts/qemu-kernel" name="eos/platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/tools" name="eos/platform/prebuilts/tools" />
   <project path="sdk" name="eos/platform/sdk" />
