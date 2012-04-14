@@ -262,7 +262,7 @@
   <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
   <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="28ed147dbf761d6ca1f5a95a75f3b8beabe2"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="33578f3ba4ee841e878b363bc7a9b17ae1c0"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="24cc42f361bb977aa6ebf64da4bc4ff011b4"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="33f6eb3abca39e23c857429283d0cb436acf"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="87e98ba8b112986bef2e34d93c616f58b976"/>
 
@@ -279,7 +279,7 @@
   <project name="eos/platform/external/libnl" path="external/libnl" revision="553f0f4636dd40e84d320a576b3de7b95357"/>
   <project name="eos/platform/external/powertop" path="external/powertop" revision="19b7413e8384679cdc643b09b301b9ed4f48"/>
 
-  <project name="eos/platform/vendor/asus" path="vendor/asus" revision="05754b0429083f00576315c4b6b5588ade17"/>
+  <project name="eos/platform/vendor/asus" path="vendor/asus" revision="fd6a69e72eb027a2337306fd92cf0c039517"/>
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="d4f6e9c8a0fe6424c69d1128ba71d4270de0"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="c066cf8396ab16802c9506aebc25605999f6"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="d1bf8a82d046861730baefa64f42d5baa882"/>
