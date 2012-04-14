@@ -23,13 +23,13 @@
   <project name="eos/device/google/accessory/arduino" path="device/google/accessory/arduino" revision="f69828775a15396b753c16a83417bb769138"/>
   <project name="eos/device/google/accessory/demokit" path="device/google/accessory/demokit" revision="0f59498895a58dcc3d0ab8fb03683e123ded"/>
   <project name="eos/device/moto/common" path="device/moto/common" revision="f2b4fcf01b3e3a2d9dcaf6e03449865ea251"/>
-  <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="acdee7b7efb1cd4c8c0e3c7d4340578d5a89"/>
+  <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="a6b2045c70cc475d629b2c6943bbebed9819"/>
   <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="cecd99cb6be3ec1d54a272362759bcb2a066"/>
   <project name="eos/device/sample" path="device/sample" revision="f08bca67cac37f10b9806deb250819c252a8"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="e86dd019c146d1e9671cb2e9efd9fc009400"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="fb8e9d661e9b00d7fb0e45a66de2a8a50dd0"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="e8758001d76dd3975969a9ddba07d6c0b6e3"/>
-  <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="3afe6221812400f4758ab1603e9f83263cfc"/>
+  <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="806e16c37bedca468e3bb53a85fbceeefc13"/>
   <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="11ed6870abcba42b2c491046c662c2c45a75"/>
   <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="9d0a01fc6e40bc6a4cd05c4a5d47f0a3c849"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="63e4b998384a6d1c78152584ab5de0b70978"/>
@@ -214,7 +214,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="fe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="fb6de308e01325e52092d1846c39cc86070a"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="d47d26402875b7e18d6abfb0ea4f168720c3"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="7bb0de3982e07cd8316782e7bae69d313f14"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="e320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="ed53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="5a57805c5409f990959dcad25c67a82ec16d"/>
@@ -259,8 +259,8 @@
 
   <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="28ed147dbf761d6ca1f5a95a75f3b8beabe2"/>
   <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="33578f3ba4ee841e878b363bc7a9b17ae1c0"/>
-  <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="04335937cf5980fa053bd4c6e2eb08e01509"/>
-  <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="9dbc6e9b81c3db5750011b90a52923c11781"/>
+  <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="33f6eb3abca39e23c857429283d0cb436acf"/>
+  <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="87e98ba8b112986bef2e34d93c616f58b976"/>
 
   <project name="eos/platform/packages/apps/Superuser" path="packages/apps/Superuser" revision="db04a353538ef2ffff07eadda096748cfc89"/>
   <project name="eos/platform/external/su" path="external/su" revision="e3701c1d00c7c59ac27fdaf1a468ac62df25"/>
