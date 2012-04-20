@@ -276,6 +276,7 @@
   <project path="external/su" name="eos/platform/external/su" />
   <project path="external/busybox" name="eos/platform/external/busybox" />
   <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
+  <project path="external/iw" name="eos/platform/external/iw" />
   <project path="vendor/eos" name="eos/platform/vendor/eos" />
   <project path="packages/apps/AndroidTerminalEmulator" name="eos/platform/packages/apps/AndroidTerminalEmulator" />
   <project path="packages/apps/EosOverclockHelper" name="eos/platform/packages/apps/EosOverclockHelper" />
