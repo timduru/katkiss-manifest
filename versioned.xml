@@ -163,7 +163,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="49d40f86aecb4c6702a9d12d77af8ee85547"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="17649257e6ed4e4809117f09d8386b12bb78"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="e0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="afd3ffdf8db5fd3a07217e40b427e4f43870"/>
@@ -216,7 +216,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="fe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="fb6de308e01325e52092d1846c39cc86070a"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="7bb0de3982e07cd8316782e7bae69d313f14"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="2c36220159c9480a83d2365514b7b34ea722"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="e320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="ed53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="5a57805c5409f990959dcad25c67a82ec16d"/>
@@ -261,8 +261,8 @@
   <project name="eos/platform/system/netd" path="system/netd" revision="45930d60a366734bbf70c3b60332a606c01e"/>
   <project name="eos/platform/system/vold" path="system/vold" revision="74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
 
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="28ed147dbf761d6ca1f5a95a75f3b8beabe2"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="862b8ecc89611090b65693906878dd65898b"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="75e2464bcea764e8cde837ba745ad8dc15c7"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="dc4fed98f132754fb4dff7e07ad691d4370f"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="33f6eb3abca39e23c857429283d0cb436acf"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="87e98ba8b112986bef2e34d93c616f58b976"/>
 
@@ -270,6 +270,7 @@
   <project name="eos/platform/external/su" path="external/su" revision="e3701c1d00c7c59ac27fdaf1a468ac62df25"/>
   <project name="eos/platform/external/busybox" path="external/busybox" revision="0f7ee094960a6733cd0c0b4b22d54f3a20e6"/>
   <project name="eos/platform/external/iwmulticall" path="external/iwmulticall" revision="004d44789734003ccfab6343d8329a0a1039"/>
+  <project name="eos/platform/external/iw" path="external/iw" revision="11c38c282c512e7f96599b4d8b68b01c9bc4"/>
   <project name="eos/platform/vendor/eos" path="vendor/eos" revision="6e653a373a50eab3f8fc47bf8c1c467c123a"/>
   <project name="eos/platform/packages/apps/AndroidTerminalEmulator" path="packages/apps/AndroidTerminalEmulator" revision="33be8b3e424a919325e4e7d21e3bdc5abeb0"/>
   <project name="eos/platform/packages/apps/EosOverclockHelper" path="packages/apps/EosOverclockHelper" revision="741994a90572f199450719bd6388cb783dd6"/>
