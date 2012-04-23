@@ -51,7 +51,7 @@
   <project name="eos/platform/external/bluetooth/hcidump" path="external/bluetooth/hcidump" revision="7322661808c2006b7848e79e6bb72b37fbcf6710"/>
   <project name="eos/platform/external/bouncycastle" path="external/bouncycastle" revision="120c7be3b96ad42d92b9db1a75e5e5845bf3a723"/>
   <project name="eos/platform/external/bsdiff" path="external/bsdiff" revision="81872540236d9bb15cccf963d05b9de48baa5375"/>
-  <project name="eos/platform/external/busybox" path="external/busybox" revision="91e50f7ee094960a6733cd0c0b4b22d54f3a20e6"/>
+  <project name="eos/platform/external/busybox" path="external/busybox" revision="8d847bfaa9c9517a3e61223feb8c84b384150eac"/>
   <project name="eos/platform/external/bzip2" path="external/bzip2" revision="414a94a045a359ab76fa22feaee883180a9b2779"/>
   <project name="eos/platform/external/checkpolicy" path="external/checkpolicy" revision="a6834194069d4dd2f5883b57a0783b97def7e9ab"/>
   <project name="eos/platform/external/chromium" path="external/chromium" revision="361bc379144f4e67bca8b263c7a673fa73aafefc"/>
@@ -281,5 +281,5 @@
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="f278d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="73a1f6392c1fc5cdd54ae1b3f192c1356b70d212"/>
-  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="f62c6e8b9ba0f3f0b26cf9ccf6f76537e2d5e7d3"/>
+  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="43f9553981f0a4f40f92a66d9f7a0dd3db3984c4"/>
 </manifest>
