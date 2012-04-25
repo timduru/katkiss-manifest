@@ -21,7 +21,7 @@
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="1b64b8b555414f302d1fbb7bd2bc49272d20baf2"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="4b2301afd82be9408152e2cefa8ef5c9f12875bd"/>
-  <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="029811ed6870abcba42b2c491046c662c2c45a75"/>
+  <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="f3ece4bb97ee9de959c59ce7fc9946de0799a4dc"/>
   <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="12d79d0a01fc6e40bc6a4cd05c4a5d47f0a3c849"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="407363e4b998384a6d1c78152584ab5de0b70978"/>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
@@ -29,7 +29,7 @@
   <project name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="eos/platform/bootable/recovery" path="bootable/recovery" revision="2a4ab824b39e429969199c189ae1b6c1115e51d5"/>
-  <project name="eos/platform/build" path="build" revision="b22e774664111c5fa266e23e7097eb150d86239f">
+  <project name="eos/platform/build" path="build" revision="6cd345cdd5ac253ca3ddbb2b0c4b678cb5c03540">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="eos/platform/cts" path="cts" revision="2f5aca2bb8452e647bcd1f01454c6082b4a498f3"/>
@@ -173,7 +173,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="6e7338458fa2acc4832389574847db12543b5938"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="ee6cb374672f193d4795c287cdbb232007bd0a83"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="9d1cafd3ffdf8db5fd3a07217e40b427e4f43870"/>
@@ -274,17 +274,17 @@
   <project name="eos/platform/prebuilts/tools" path="prebuilts/tools" revision="f3caf7e4e568492fa2f93df9d43a8fce747eef91"/>
   <project name="eos/platform/sdk" path="sdk" revision="6cdb3a6f94ff87f79a2bd57870ad4cf4dbf16a20"/>
   <project name="eos/platform/system/bluetooth" path="system/bluetooth" revision="9109c4206e5891746e6a5f77a80c7edf4ce9a8e5"/>
-  <project name="eos/platform/system/core" path="system/core" revision="115b8cd43ec070dbb7970fbcec0398a6c393b0e5"/>
+  <project name="eos/platform/system/core" path="system/core" revision="f903d13caaf73bd3f943e130b2aa80debf95b5fe"/>
   <project name="eos/platform/system/extras" path="system/extras" revision="b7e55b7395c9654271a59764afb010e8547bbe9c"/>
   <project name="eos/platform/system/media" path="system/media" revision="9f61907cc1991fd56c008cb5042d8d3d2d0db51f"/>
   <project name="eos/platform/system/netd" path="system/netd" revision="176545930d60a366734bbf70c3b60332a606c01e"/>
   <project name="eos/platform/system/vold" path="system/vold" revision="b6ae74a2a0ad58c5cc00f05a02e2f53e92ff69e1"/>
   <project name="eos/platform/vendor/asus" path="vendor/asus" revision="072bfd6a69e72eb027a2337306fd92cf0c039517"/>
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="87d0d4f6e9c8a0fe6424c69d1128ba71d4270de0"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="23bbc2842b70cc2e5fae961f0717a0786d570aa8"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="e99ae54cca6ca70a282cb71c893512a443e619e7"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="828ac066cf8396ab16802c9506aebc25605999f6"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="f278d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
-  <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="55cc6eac11db3791d1d77ab62beb0eef8a972d0d"/>
+  <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="10783c6e803e3ac5ac3fa18374eb7d657f72c5af"/>
   <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="43f9553981f0a4f40f92a66d9f7a0dd3db3984c4"/>
 </manifest>
