@@ -6,7 +6,7 @@
   <default remote="eos" revision="ics"/>
   
   <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="fc91fd3a3d05a761d895946c2f0f95ad327ca9c4"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="07a29099422f76234f9efbaca5b222f8565c2bfe"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="0e2621fadbd847d7dc0b385343457acd084ce3ec"/>
   <project name="eos/device/common" path="device/common" revision="7d4526582f88808a3194e1a3b304abb369d2745c"/>
   <project name="eos/device/generic/goldfish" path="device/generic/goldfish" revision="5feb8ecfd93c4e3c9eec89ab20dd143d05f7e91c"/>
   <project name="eos/device/google/accessory/arduino" path="device/google/accessory/arduino" revision="9b1ef69828775a15396b753c16a83417bb769138"/>
