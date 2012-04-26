@@ -5,8 +5,8 @@
   
   <default remote="eos" revision="ics"/>
   
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="0f2475e2464bcea764e8cde837ba745ad8dc15c7"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="316edc4fed98f132754fb4dff7e07ad691d4370f"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="fc91fd3a3d05a761d895946c2f0f95ad327ca9c4"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="07a29099422f76234f9efbaca5b222f8565c2bfe"/>
   <project name="eos/device/common" path="device/common" revision="7d4526582f88808a3194e1a3b304abb369d2745c"/>
   <project name="eos/device/generic/goldfish" path="device/generic/goldfish" revision="5feb8ecfd93c4e3c9eec89ab20dd143d05f7e91c"/>
   <project name="eos/device/google/accessory/arduino" path="device/google/accessory/arduino" revision="9b1ef69828775a15396b753c16a83417bb769138"/>
@@ -173,7 +173,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="ee6cb374672f193d4795c287cdbb232007bd0a83"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="2b784ceec186aab0cb3f62f38b0d64dd8278dffe"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="9d1cafd3ffdf8db5fd3a07217e40b427e4f43870"/>
@@ -285,6 +285,6 @@
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="828ac066cf8396ab16802c9506aebc25605999f6"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="f278d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
-  <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="10783c6e803e3ac5ac3fa18374eb7d657f72c5af"/>
+  <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="f62e8bfb77624f78daa912b14c7c253b16d540c9"/>
   <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="43f9553981f0a4f40f92a66d9f7a0dd3db3984c4"/>
 </manifest>
