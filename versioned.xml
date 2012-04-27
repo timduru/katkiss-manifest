@@ -22,7 +22,7 @@
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="1b64b8b555414f302d1fbb7bd2bc49272d20baf2"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="4b2301afd82be9408152e2cefa8ef5c9f12875bd"/>
   <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="3539a208bb0c54a12ee7b36805497e22f2339f0a"/>
-  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="12d79d0a01fc6e40bc6a4cd05c4a5d47f0a3c849"/>
+  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="08ed82775e92062442247d082912943ce4b0a600"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="407363e4b998384a6d1c78152584ab5de0b70978"/>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="eos/platform/bionic" path="bionic" revision="c03b7399b6811160f6f878228bdbd234aec2a12b"/>
