@@ -276,6 +276,7 @@
   <project path="device/asus/tf201" name="eos/device/asus/tf201" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
+  <project path="device/samsung/toroplus" name="eos/device/samsung/toroplus" />
 
   <project path="packages/apps/Superuser" name="eos/platform/packages/apps/Superuser" />
   <project path="external/su" name="eos/platform/external/su" />
