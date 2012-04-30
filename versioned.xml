@@ -21,8 +21,9 @@
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="1b64b8b555414f302d1fbb7bd2bc49272d20baf2"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="4b2301afd82be9408152e2cefa8ef5c9f12875bd"/>
-  <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="3539a208bb0c54a12ee7b36805497e22f2339f0a"/>
-  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="08ed82775e92062442247d082912943ce4b0a600"/>
+  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="c3ede47f8043c03cc8342aefffccc0343372723a"/>
+  <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="029811ed6870abcba42b2c491046c662c2c45a75"/>
+  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="d3e27f3a431b6944bf5d4d89f7c3114da403eedf"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="407363e4b998384a6d1c78152584ab5de0b70978"/>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="eos/platform/bionic" path="bionic" revision="c03b7399b6811160f6f878228bdbd234aec2a12b"/>
@@ -173,7 +174,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="81152114d9cb94fff466de0a984faefefb4e506d"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="ab351115c6a647603383f7f4aa2f3536a4465953"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="9d1cafd3ffdf8db5fd3a07217e40b427e4f43870"/>
@@ -229,7 +230,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="ae6cfb6de308e01325e52092d1846c39cc86070a"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="932a2c36220159c9480a83d2365514b7b34ea722"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="b49f52f65feaacdebc7d0919a5f79ce719810d10"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="56aded53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
@@ -285,6 +286,6 @@
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="828ac066cf8396ab16802c9506aebc25605999f6"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="f278d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
-  <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="fdd94ff0ba116d211e28b66fcac10a9b012c807f"/>
-  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="43f9553981f0a4f40f92a66d9f7a0dd3db3984c4"/>
+  <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="01dcc67102ca3bb60bc8e164b97bfe27aa45a651"/>
+  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="9e2153c2ad025d0d645a11c7e715e08a51c35cff"/>
 </manifest>
