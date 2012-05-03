@@ -15,7 +15,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="87f315d03581d1a7b75ba7938d458f70c8dfa415"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="b627a4a4ff1440e8531f5a27d13f04969a35a97b"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="19454f7511c5b32657070b57113fc608b916b3d4"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="9392ab41b73598740bb2b07bdf4c88e3dd4029e1"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="6ac380cba1ebba6721d896a1cbd1ad5d54a888bb"/>
   <project name="eos/device/sample" path="device/sample" revision="d771f08bca67cac37f10b9806deb250819c252a8"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="22250d7903464aa12c28e51af85f19d99b84f032"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
@@ -174,7 +174,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="7a020117fce43c6614489721f57c89d13efc63e1"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="d68de5e867f29504a55c48333ac11da37b827329"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="9d1cafd3ffdf8db5fd3a07217e40b427e4f43870"/>
