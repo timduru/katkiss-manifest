@@ -15,7 +15,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="87f315d03581d1a7b75ba7938d458f70c8dfa415"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="b627a4a4ff1440e8531f5a27d13f04969a35a97b"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="19454f7511c5b32657070b57113fc608b916b3d4"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="2a1c9916dcdb3c25ddd20bb39dd14ee594f26968"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="9392ab41b73598740bb2b07bdf4c88e3dd4029e1"/>
   <project name="eos/device/sample" path="device/sample" revision="d771f08bca67cac37f10b9806deb250819c252a8"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="22250d7903464aa12c28e51af85f19d99b84f032"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
@@ -230,7 +230,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="ae6cfb6de308e01325e52092d1846c39cc86070a"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="1dbf1380d5c736e50a2b1fb84b78a1de2fe9ab92"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="186ce70f08a02f9d781253697d189b4ca003c4f9"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="56aded53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
