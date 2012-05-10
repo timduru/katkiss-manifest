@@ -287,5 +287,5 @@
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="f278d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="01dcc67102ca3bb60bc8e164b97bfe27aa45a651"/>
-  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="76f8f41aca36ebe5a3f259d182090393d73d71a1"/>
+  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="ece66e429cf6e9a6c047bf11c64051370aa8a693"/>
 </manifest>
