@@ -305,4 +305,5 @@
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
 
   <project path="packages/apps/GooManagerPrebuilt" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
+  <project path="packages/apps/Trebuchet" name="eos/platform/packages/apps/Trebuchet" />
 </manifest>
