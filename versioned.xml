@@ -15,7 +15,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="87f315d03581d1a7b75ba7938d458f70c8dfa415"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="b627a4a4ff1440e8531f5a27d13f04969a35a97b"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="19454f7511c5b32657070b57113fc608b916b3d4"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="a3340729f61e89537c1efce9c5d308a92b2f593d"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="3865df32f8bdaa73b9bf367664e76f11d01a79a6"/>
   <project name="eos/device/sample" path="device/sample" revision="73075c5d126cc22946a6bc0010c2c58e14adcec4"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="22250d7903464aa12c28e51af85f19d99b84f032"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
@@ -174,7 +174,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="16a717b6bee82e3c30fdc449348caf16f152225e"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="2f2e7dee37e41c2b99d55e3d3a4c3b61642adf98"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="23383041ca7d4fdbb4564a8f47fce17c87f383ce"/>
@@ -212,7 +212,7 @@
   <project name="eos/platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="4fad005fbc84825278d341ffb8a9a5c5c9f95a32"/>
   <project name="eos/platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="3921c68a200bb91e12f79182ded8a5546e26b7fe"/>
   <project name="eos/platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="7196582beff4af6a6b6de39cb13a0940fe49600b"/>
-  <project name="eos/platform/packages/apps/Email" path="packages/apps/Email" revision="02d3c5d939355623f9bac9a754e71adac4fea834"/>
+  <project name="eos/platform/packages/apps/Email" path="packages/apps/Email" revision="4b4560fcd31440fb76c7df11a89bdd5af4ba297b"/>
   <project name="eos/platform/packages/apps/EosOverclockHelper" path="packages/apps/EosOverclockHelper" revision="6307741994a90572f199450719bd6388cb783dd6"/>
   <project name="eos/platform/packages/apps/EosStorageHelper" path="packages/apps/EosStorageHelper" revision="2c988051eebc0565867279e9955b2e6c4e907799"/>
   <project name="eos/platform/packages/apps/Exchange" path="packages/apps/Exchange" revision="3d69fb18852edebc31aa34d2bf86ac0349279427"/>
@@ -230,7 +230,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="8a50a4840c52b0dcaf15ffea891e3463691e2e33"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="2bb99af25ba825aad0102309e1b29e39445a03b5"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="3e5db747b05d85bccb27f743d73975c8a3077c85"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="56aded53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
@@ -293,5 +293,5 @@
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="f278d1bf8a82d046861730baefa64f42d5baa882"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="01dcc67102ca3bb60bc8e164b97bfe27aa45a651"/>
-  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="ece66e429cf6e9a6c047bf11c64051370aa8a693"/>
+  <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="8212a5655771f6ba9210e7e7e117365b0e822675"/>
 </manifest>
