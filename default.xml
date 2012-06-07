@@ -306,4 +306,7 @@
 
   <project path="packages/apps/GooManagerPrebuilt" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
   <project path="packages/apps/Trebuchet" name="eos/platform/packages/apps/Trebuchet" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="eos/platform/vendor/tmobile/apps/ThemeChooser" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" />
 </manifest>
