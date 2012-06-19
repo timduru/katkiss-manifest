@@ -15,7 +15,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="db840c7fb4dd582d96f7863efc63cbece069cc75"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="497c85f2f986531fb742c297399e246cea3adb9b"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="19454f7511c5b32657070b57113fc608b916b3d4"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="bff14c943b641e568815aaf0e67ff7f01becdd44"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="472373e14abd6068f07d8246160b2c23fb5fb27c"/>
   <project name="eos/device/sample" path="device/sample" revision="73075c5d126cc22946a6bc0010c2c58e14adcec4"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="22250d7903464aa12c28e51af85f19d99b84f032"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
@@ -26,15 +26,15 @@
   <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="a6e0426ec53924cce53b8a73f90bd2848a596320"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="e63ab2b481b7bcfb085b52b2e706dfb9f02e917c"/>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
-  <project name="eos/platform/bionic" path="bionic" revision="bcfbc3a9346c8ce55efc4606915065d44fa7d3f5"/>
+  <project name="eos/platform/bionic" path="bionic" revision="4854c6323809d46482441e9c5805fb4bdf1b6042"/>
   <project name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="eos/platform/bootable/recovery" path="bootable/recovery" revision="2a4ab824b39e429969199c189ae1b6c1115e51d5"/>
-  <project name="eos/platform/build" path="build" revision="8007c2c897674d974e18ac616f5951109227c1f9">
+  <project name="eos/platform/build" path="build" revision="76f397cb69d10b60e9cf66507d83adc73545b9f6">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="eos/platform/cts" path="cts" revision="b35a9eb8205375625c022616f7219961a4bb4656"/>
-  <project name="eos/platform/dalvik" path="dalvik" revision="20aeca6e2b18c07d3840f4b09f09186511148d8c"/>
+  <project name="eos/platform/dalvik" path="dalvik" revision="d6e2ff39dc283420a5c0b4e56f749c5afaa9ea46"/>
   <project name="eos/platform/development" path="development" revision="90e9900c444dc1270646c6d0190e4e7b48a89665"/>
   <project name="eos/platform/docs/source.android.com" path="docs/source.android.com" revision="59dc63574ea27bd4d0a03e9ded931aeb57951e42"/>
   <project name="eos/platform/external/android-clat" path="external/android-clat" revision="62ea9b6658a4c2116eeb6450c8244269448e79aa"/>
@@ -174,7 +174,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="199f93b7f8066c57f6f65ec493a9c123f5a351c5"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="3cba7205745fcf98ff16f36a33a410989f5c115f"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="23383041ca7d4fdbb4564a8f47fce17c87f383ce"/>
