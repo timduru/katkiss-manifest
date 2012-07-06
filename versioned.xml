@@ -5,8 +5,8 @@
   
   <default remote="eos" revision="ics"/>
   
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="7d17edf9c030c68c56c332164f83978caaabe586"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="db7756e24ff79c3fbf5e4bd17ccc7f278a24f473"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="67d591b9a709dbcb605574cc24956a487c3d38f8"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="b21d4f3e70b8249a208c51006203e5f46826d470"/>
   <project name="eos/device/common" path="device/common" revision="7d4526582f88808a3194e1a3b304abb369d2745c"/>
   <project name="eos/device/generic/goldfish" path="device/generic/goldfish" revision="5feb8ecfd93c4e3c9eec89ab20dd143d05f7e91c"/>
   <project name="eos/device/google/accessory/arduino" path="device/google/accessory/arduino" revision="9b1ef69828775a15396b753c16a83417bb769138"/>
@@ -15,22 +15,22 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="db840c7fb4dd582d96f7863efc63cbece069cc75"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="497c85f2f986531fb742c297399e246cea3adb9b"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="19454f7511c5b32657070b57113fc608b916b3d4"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="472373e14abd6068f07d8246160b2c23fb5fb27c"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="cf8c6897b15933b84967951a2d91d944b555c9e2"/>
   <project name="eos/device/sample" path="device/sample" revision="73075c5d126cc22946a6bc0010c2c58e14adcec4"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="22250d7903464aa12c28e51af85f19d99b84f032"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="0f3374a539fd6ca5880017a538634679197b3747"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="a8321c8c50e2b81b2258a1ac8f3527663e9cca4c"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="84b53ec2ede867d9cc46bbab84b123e1f556a359"/>
-  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="bd183002554dca2ce88261a36099b7938adda496"/>
+  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="f1080f2ab09d5c04e8d0c614c3ab27409f34c283"/>
   <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="029811ed6870abcba42b2c491046c662c2c45a75"/>
-  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="a6e0426ec53924cce53b8a73f90bd2848a596320"/>
+  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="96477f12979851e153ff7fc945f72685e2199096"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="e63ab2b481b7bcfb085b52b2e706dfb9f02e917c"/>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="eos/platform/bionic" path="bionic" revision="4854c6323809d46482441e9c5805fb4bdf1b6042"/>
   <project name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="eos/platform/bootable/recovery" path="bootable/recovery" revision="2a4ab824b39e429969199c189ae1b6c1115e51d5"/>
-  <project name="eos/platform/build" path="build" revision="76f397cb69d10b60e9cf66507d83adc73545b9f6">
+  <project name="eos/platform/build" path="build" revision="35e76eb61a6a9a1cd19d92a5e845ce11d4e9decc">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="eos/platform/cts" path="cts" revision="b35a9eb8205375625c022616f7219961a4bb4656"/>
@@ -174,7 +174,7 @@
   <project name="eos/platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="30407b3fb9d461c2be733daffeadcb0d46b669b2"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="3cba7205745fcf98ff16f36a33a410989f5c115f"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="2fd4b69aa5e58ed345225a158f1ad94c02eeba7d"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="03cfe0e30d65d6e2ecbe6282cec4b20d3be690cc"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="7cb1b70e61d1f1c335fe81449660751d8ae9d74b"/>
   <project name="eos/platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="23383041ca7d4fdbb4564a8f47fce17c87f383ce"/>
@@ -230,7 +230,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="8a50a4840c52b0dcaf15ffea891e3463691e2e33"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="bfbad34ef3d187e5eb174b25281f1f762dfbc125"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="c755d7888118cb905d4b2e41342f8291770c186d"/>
   <project name="eos/platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="56aded53dd75631bc7a3f0c5ccb33368fe49dc22"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
@@ -288,7 +288,7 @@
   <project name="eos/platform/system/vold" path="system/vold" revision="8ff6af91581ccb0e98a81171c891692b80ce1d3f"/>
   <project name="eos/platform/vendor/asus" path="vendor/asus" revision="072bfd6a69e72eb027a2337306fd92cf0c039517"/>
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="87d0d4f6e9c8a0fe6424c69d1128ba71d4270de0"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="3c0c243c2314a9893f2b2d980ffc89fb8b7c0019"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="17631aa3bf97e7b07a4f80f14dc5d161de1c2693"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="828ac066cf8396ab16802c9506aebc25605999f6"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="87125014ffe0b0f97bbf340ddf537bb91bd93726"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="7d71b454869983c6f8e4778dca6cb72e50a9db7a"/>
