@@ -40,8 +40,10 @@
   <project path="device/samsung/tuna" name="eos/device/samsung/tuna" />
   <project path="device/ti/panda" name="eos/device/ti/panda" />
   <project path="docs/source.android.com" name="eos/platform/docs/source.android.com" />
+  <project path="external/aac" name="eos/platform/external/aac" />
   <project path="external/android-clat" name="eos/platform/external/android-clat" />
   <project path="external/android-mock" name="eos/platform/external/android-mock" />
+  <project path="external/ant-glob" name="eos/platform/external/ant-glob" />
   <project path="external/antlr" name="eos/platform/external/antlr" />
   <project path="external/apache-harmony" name="eos/platform/external/apache-harmony" />
   <project path="external/apache-http" name="eos/platform/external/apache-http" />
@@ -58,6 +60,7 @@
   <project path="external/bzip2" name="eos/platform/external/bzip2" />
   <project path="external/checkpolicy" name="eos/platform/external/checkpolicy" />
   <project path="external/chromium" name="eos/platform/external/chromium" />
+  <project path="external/chromium-trace" name="eos/platform/external/chromium-trace" />
   <project path="external/clang" name="eos/platform/external/clang" />
   <project path="external/collada" name="eos/platform/external/collada" />
   <project path="external/dbus" name="eos/platform/external/dbus" />
@@ -79,6 +82,7 @@
   <project path="external/flac" name="eos/platform/external/flac" />
   <project path="external/freetype" name="eos/platform/external/freetype" />
   <project path="external/fsck_msdos" name="eos/platform/external/fsck_msdos" />
+  <peoject path="external/gcc-demangle" name="eos/platform/external/gcc-demangle" />
   <project path="external/genext2fs" name="eos/platform/external/genext2fs" />
   <project path="external/giflib" name="eos/platform/external/giflib" />
   <project path="external/google-diff-match-patch" name="eos/platform/external/google-diff-match-patch" />
