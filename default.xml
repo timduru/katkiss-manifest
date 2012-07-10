@@ -22,9 +22,12 @@
   <project path="bootable/diskinstaller" name="eos/platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="eos/platform/bootable/recovery" />
   <project path="cts" name="eos/platform/cts" />
-  <project path="dalvik" name="eos/platform/dalvik" />
+  <project path="dalvik" name="eos/platform/dalvik2" />
   <project path="development" name="eos/platform/development" />
+  <project path="device/asus/grouper" name="eos/device/asus/grouper" />
   <project path="device/common" name="eos/device/common" />
+  <project path="device/generic/armv7-a-neon" name="eos/device/generic/armv7-a-neon" />
+  <project path="device/generic/armv7-a" name="eos/device/generic/armv7-a" />
   <project path="device/generic/goldfish" name="eos/device/generic/goldfish" />
   <project path="device/google/accessory/arduino" name="eos/device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="eos/device/google/accessory/demokit" />
@@ -61,9 +64,11 @@
   <project path="external/checkpolicy" name="eos/platform/external/checkpolicy" />
   <project path="external/chromium" name="eos/platform/external/chromium" />
   <project path="external/chromium-trace" name="eos/platform/external/chromium-trace" />
+  <project path="external/cibu-fonts" name="eos/platform/external/cibu-fonts" />
   <project path="external/clang" name="eos/platform/external/clang" />
-  <project path="external/collada" name="eos/platform/external/collada" />
+  <project path="external/compiler-rt" name="eos/platform/external/compiler-rt" />
   <project path="external/dbus" name="eos/platform/external/dbus" />
+  <project path="external/dexmaker" name="eos/platform/external/dexmaker" />
   <project path="external/dhcpcd" name="eos/platform/external/dhcpcd" />
   <project path="external/dnsmasq" name="eos/platform/external/dnsmasq" />
   <project path="external/doclava" name="eos/platform/external/doclava" />
@@ -82,6 +87,7 @@
   <project path="external/flac" name="eos/platform/external/flac" />
   <project path="external/freetype" name="eos/platform/external/freetype" />
   <project path="external/fsck_msdos" name="eos/platform/external/fsck_msdos" />
+  <project path="external/ganymed-ssh2" name="eos/platform/external/ganymed-ssh2" />
   <peoject path="external/gcc-demangle" name="eos/platform/external/gcc-demangle" />
   <project path="external/genext2fs" name="eos/platform/external/genext2fs" />
   <project path="external/giflib" name="eos/platform/external/giflib" />
@@ -89,16 +95,20 @@
   <project path="external/grub" name="eos/platform/external/grub" />
   <project path="external/gtest" name="eos/platform/external/gtest" />
   <project path="external/guava" name="eos/platform/external/guava" />
+  <project path="external/hamcrest" name="eos/platform/external/hamcrest" />
   <project path="external/harfbuzz" name="eos/platform/external/harfbuzz" />
   <project path="external/hyphenation" name="eos/platform/external/hyphenation" />
   <project path="external/icu4c" name="eos/platform/external/icu4c" />
   <project path="external/iproute2" name="eos/platform/external/iproute2" />
   <project path="external/ipsec-tools" name="eos/platform/external/ipsec-tools" />
   <project path="external/iptables" name="eos/platform/external/iptables" />
+  <project path="external/jack" name="eos/platform/external/jack" />
   <project path="external/javasqlite" name="eos/platform/external/javasqlite" />
   <project path="external/javassist" name="eos/platform/external/javassist" />
   <project path="external/jdiff" name="eos/platform/external/jdiff" />
   <project path="external/jhead" name="eos/platform/external/jhead" />
+  <project path="external/jmdns" name="eos/platform/external/jmdns" />
+  <project path="external/jmonkeyengine" name="eos/platform/external/jmonkeyengine" />
   <project path="external/jpeg" name="eos/platform/external/jpeg" />
   <project path="external/jsilver" name="eos/platform/external/jsilver" />
   <project path="external/jsr305" name="eos/platform/external/jsr305" />
@@ -121,22 +131,27 @@
   <project path="external/libxml2" name="eos/platform/external/libxml2" />
   <project path="external/libxslt" name="eos/platform/external/libxslt" />
   <project path="external/libyuv" name="eos/platform/external/libyuv" />
+  <project path="external/linux-tools-perf" name="eos/platform/external/linux-tools-perf" />
+  <project path="external/littlemock" name="eos/platform/external/littlemock" />
   <project path="external/llvm" name="eos/platform/external/llvm" />
   <project path="external/lohit-fonts" name="eos/platform/external/lohit-fonts" />
   <project path="external/markdown" name="eos/platform/external/markdown" />
+  <project path="external/mdnsresponder" name="eos/platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="eos/platform/external/mesa3d" />
   <project path="external/mksh" name="eos/platform/external/mksh" />
   <project path="external/mockwebserver" name="eos/platform/external/mockwebserver" />
   <project path="external/mtpd" name="eos/platform/external/mtpd" />
+  <project path="external/naver-fonts" name="eos/platform/external/naver-fonts" />
   <project path="external/netcat" name="eos/platform/external/netcat" />
   <project path="external/netperf" name="eos/platform/external/netperf" />
   <project path="external/neven" name="eos/platform/external/neven" />
   <project path="external/nist-sip" name="eos/platform/external/nist-sip" />
   <project path="external/oauth" name="eos/platform/external/oauth" />
   <project path="external/opencv" name="eos/platform/external/opencv" />
+  <project path="external/openfst" name="eos/platform/external/openfst" />
+  <project path="external/openssh" name="eos/platform/external/openssh" />
   <project path="external/openssl" name="eos/platform/external/openssl" />
   <project path="external/oprofile" name="eos/platform/external/oprofile" />
-  <project path="external/pcre" name="eos/platform/external/pcre" />
   <project path="external/ping" name="eos/platform/external/ping" />
   <project path="external/ping6" name="eos/platform/external/ping6" />
   <project path="external/ppp" name="eos/platform/external/ppp" />
@@ -145,10 +160,12 @@
   <project path="external/qemu" name="eos/platform/external/qemu" />
   <project path="external/qemu-pc-bios" name="eos/platform/external/qemu-pc-bios" />
   <project path="external/quake" name="eos/platform/external/quake" />
+  <project path="external/regex-re2" name="eos/platform/external/regex-re2" />
   <project path="external/replicaisland" name="eos/platform/external/replicaisland" />
   <project path="external/safe-iop" name="eos/platform/external/safe-iop" />
   <project path="external/sepolicy" name="eos/platform/external/sepolicy" />
   <project path="external/skia" name="eos/platform/external/skia" />
+  <project path="external/smali" name="eos/platform/external/smali" />
   <project path="external/sonivox" name="eos/platform/external/sonivox" />
   <project path="external/speex" name="eos/platform/external/speex" />
   <project path="external/sqlite" name="eos/platform/external/sqlite" />
@@ -156,6 +173,7 @@
   <project path="external/srtp" name="eos/platform/external/srtp" />
   <project path="external/stlport" name="eos/platform/external/stlport" />
   <project path="external/strace" name="eos/platform/external/strace" />
+  <project path="external/stressapptest" name="eos/platform/external/stressapptest" />
   <project path="external/svox" name="eos/platform/external/svox" />
   <project path="external/tagsoup" name="eos/platform/external/tagsoup" />
   <project path="external/tcpdump" name="eos/platform/external/tcpdump" />
@@ -167,25 +185,35 @@
   <project path="external/webkit" name="eos/platform/external/webkit" />
   <project path="external/webp" name="eos/platform/external/webp" />
   <project path="external/webrtc" name="eos/platform/external/webrtc" />
-  <project path="external/wpa_supplicant" name="eos/platform/external/wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="eos/platform/external/wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="eos/platform/external/wpa_supplicant_8" />
   <project path="external/xmlwriter" name="eos/platform/external/xmlwriter" />
   <project path="external/yaffs2" name="eos/platform/external/yaffs2" />
   <project path="external/zlib" name="eos/platform/external/zlib" />
+  <project path="external/zxing" name="eos/platform/external/zxing" />
+  <project path="frameworks/av" name="eos/platform/frameworks/av" />
   <project path="frameworks/base" name="eos/platform/frameworks/base" />
   <project path="frameworks/compile/libbcc" name="eos/platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="eos/platform/frameworks/compile/linkloader" />
+  <project path="frameworks/compile/mclinker" name="eos/platform/frameworks/compile/mclinker" />
   <project path="frameworks/compile/slang" name="eos/platform/frameworks/compile/slang" />
   <project path="frameworks/ex" name="eos/platform/frameworks/ex" />
-  <project path="frameworks/media/libvideoeditor" name="eos/platform/frameworks/media/libvideoeditor" />
+  <project path="frameworks/mff" name="eos/platform/frameworks/mff" />
+  <project path="frameworks/ml" name="eos/platform/frameworks/ml" />
+  <project path="frameworks/native" name="eos/platform/frameworks/native" />
   <project path="frameworks/opt/calendar" name="eos/platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="eos/platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/emoji" name="eos/platform/frameworks/opt/emoji" />
   <project path="frameworks/opt/inputmethodcommon" name="eos/platform/frameworks/opt/inputmethodcommon" />
   <project path="frameworks/opt/mailcommon" name="eos/platform/frameworks/opt/mailcommon" />
+  <project path="frameworks/opt/mms" name="eos/platform/frameworks/opt/mms" />
+  <project path="frameworks/opt/telephony" name="eos/platform/frameworks/opt/telephony" />
   <project path="frameworks/opt/vcard" name="eos/platform/frameworks/opt/vcard" />
+  <project path="frameworks/rs" name="eos/platform/frameworks/rs" />
   <project path="frameworks/support" name="eos/platform/frameworks/support" />
+  <project path="frameworks/testing" name="eos/platform/frameworks/testing" />
+  <project path="frameworks/wilhelm" name="eos/platform/frameworks/wilhelm" />
+  <project path="gdk" name="eos/platform/gdk" />
   <project path="hardware/broadcom/wlan" name="eos/platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="eos/platform/hardware/invensense" />
   <project path="hardware/libhardware" name="eos/platform/hardware/libhardware" />
@@ -198,7 +226,8 @@
   <project path="hardware/ti/omap4xxx" name="eos/platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="eos/platform/hardware/ti/wpan" />
-  <project path="libcore" name="eos/platform/libcore" />
+  <project path="libcore" name="eos/platform/libcore2" />
+  <project path="libnativehelper" name="eos/platform/libnativehelper" />
   <project path="ndk" name="eos/platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="eos/platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="eos/platform/packages/apps/Bluetooth" />
@@ -217,6 +246,7 @@
   <project path="packages/apps/HTMLViewer" name="eos/platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="eos/platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="eos/platform/packages/apps/Launcher2" />
+  <project path="packages/apps/LegacyCamera" name="eos/platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="eos/platform/packages/apps/Mms" />
   <project path="packages/apps/Music" name="eos/platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="eos/platform/packages/apps/MusicFX" />
@@ -256,22 +286,25 @@
   <project path="packages/wallpapers/MusicVisualization" name="eos/platform/packages/wallpapers/MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="eos/platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="eos/platform/packages/wallpapers/PhaseBeam" />
-  <project path="prebuilt" name="eos/platform/prebuilt" />
+  <project path="pdk" name="eos/platform/pdk" />
   <project path="prebuilts/eclipse" name="eos/platform/prebuilts/eclipse" />
+  <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="eos/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="eos/platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" />
   <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" name="eos/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" />
   <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" name="eos/platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" />
-  <project path="prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3" name="eos/platform/prebuilts/gcc/darwin-x86/x86/i686-android-linux-4.4.3" />
   <project path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" name="eos/platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" />
+  <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="eos/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="eos/platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.4.3" />
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="eos/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" />
-  <project path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="eos/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" />
   <project path="prebuilts/misc" name="eos/platform/prebuilts/misc" />
+  <project path="prebuilts/ndk" name="eos/platform/prebuilts/ndk" />
   <project path="prebuilts/qemu-kernel" name="eos/platform/prebuilts/qemu-kernel" />
+  <project path="prebuilts/sdk" name="eos/platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="eos/platform/prebuilts/tools" />
   <project path="sdk" name="eos/platform/sdk" />
   <project path="system/bluetooth" name="eos/platform/system/bluetooth" />
@@ -279,6 +312,7 @@
   <project path="system/extras" name="eos/platform/system/extras" />
   <project path="system/media" name="eos/platform/system/media" />
   <project path="system/netd" name="eos/platform/system/netd" />
+  <project path="system/security" name="eos/platform/system/security" />
   <project path="system/vold" name="eos/platform/system/vold" />
 
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
@@ -293,7 +327,6 @@
   <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
   <project path="external/iw" name="eos/platform/external/iw" />
   <project path="vendor/eos" name="eos/platform/vendor/eos" />
-  <project path="packages/apps/AndroidTerminalEmulator" name="eos/platform/packages/apps/AndroidTerminalEmulator" />
   <project path="packages/apps/EosOverclockHelper" name="eos/platform/packages/apps/EosOverclockHelper" />
   <project path="packages/apps/EosStorageHelper" name="eos/platform/packages/apps/EosStorageHelper" />
   <project path="external/ntfs-3g" name="eos/platform/external/ntfs-3g" />
@@ -309,8 +342,4 @@
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
 
   <project path="packages/apps/GooManagerPrebuilt" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
-  <project path="packages/apps/Trebuchet" name="eos/platform/packages/apps/Trebuchet" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="eos/platform/vendor/tmobile/apps/ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" />
 </manifest>
