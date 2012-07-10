@@ -22,7 +22,7 @@
   <project path="bootable/diskinstaller" name="eos/platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="eos/platform/bootable/recovery" />
   <project path="cts" name="eos/platform/cts" />
-  <project path="dalvik" name="eos/platform/dalvik2" />
+  <project path="dalvik" name="eos/platform/dalvik" />
   <project path="development" name="eos/platform/development" />
   <project path="device/asus/grouper" name="eos/device/asus/grouper" />
   <project path="device/common" name="eos/device/common" />
