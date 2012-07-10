@@ -85,7 +85,7 @@
   <project path="external/freetype" name="eos/platform/external/freetype" />
   <project path="external/fsck_msdos" name="eos/platform/external/fsck_msdos" />
   <project path="external/ganymed-ssh2" name="eos/platform/external/ganymed-ssh2" />
-  <peoject path="external/gcc-demangle" name="eos/platform/external/gcc-demangle" />
+  <project path="external/gcc-demangle" name="eos/platform/external/gcc-demangle" />
   <project path="external/genext2fs" name="eos/platform/external/genext2fs" />
   <project path="external/giflib" name="eos/platform/external/giflib" />
   <project path="external/google-diff-match-patch" name="eos/platform/external/google-diff-match-patch" />
