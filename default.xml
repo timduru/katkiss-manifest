@@ -316,6 +316,7 @@
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
   <project path="device/samsung/toroplus" name="eos/device/samsung/toroplus" />
 
+  <project path="external/busybox" name="eos/platform/external/busybox" />
   <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
   <project path="external/iw" name="eos/platform/external/iw" />
   <project path="vendor/eos" name="eos/platform/vendor/eos" />
