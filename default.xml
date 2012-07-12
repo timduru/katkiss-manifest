@@ -330,6 +330,7 @@
   <project path="vendor/asus" name="eos/platform/vendor/asus" />
   <project path="vendor/broadcom" name="eos/platform/vendor/broadcom" />
   <project path="vendor/imgtec" name="eos/platform/vendor/imgtec" />
+  <project path="vendor/invensense" name="eos/platform/vendor/invensense" />
   <project path="vendor/moto" name="eos/platform/vendor/moto" />
   <project path="vendor/nvidia" name="eos/platform/vendor/nvidia" />
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
