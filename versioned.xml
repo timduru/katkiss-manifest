@@ -5,8 +5,8 @@
   
   <default remote="eos" revision="jellybean"/>
   
-  <project name="eos/device/asus/grouper" path="device/asus/grouper" revision="8b55cacec7c72546628d8c2bf293919324fbf156"/>
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="5b38767957159c0ec428d197a2bedd8b353448b4"/>
+  <project name="eos/device/asus/grouper" path="device/asus/grouper" revision="bb772e27f036480334448d704d5367cfb9b579cd"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="590777d2ffd0183ad885b3bffce9619f0cab2854"/>
   <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="fa40785cb372f4c245a09d76158b80c8fa9bd5f2"/>
   <project name="eos/device/common" path="device/common" revision="8ffd5f8087a380e1daa9000a12908f83d376a6da"/>
   <project name="eos/device/generic/armv7-a" path="device/generic/armv7-a" revision="499f7e2d190e7dd649428364ff0219fbc26d2902"/>
@@ -24,7 +24,7 @@
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b0301b20dc9a51a73d0f9ec24b335378cd8386ae"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="8d9ac34d37025627d1fc7c0917373cc60d30e310"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="34fcd94cfcae539afe539e15f7d94db8c4107367"/>
-  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="38e1e109bb4039c07468ddd5e78e117bb63ac34a"/>
+  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="a00e07541f058c751c85c902ab7d66fb55bdd74a"/>
   <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="b56e5ef99d9d7263d0905ea86eb197afa2d93d47"/>
   <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="ad38431f60c6998a13eda159c1872a7bd9fbaee5"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="4e8d47e422a475fbb11805b9e5f9a116835eb927"/>
@@ -191,8 +191,8 @@
   <project name="eos/platform/external/yaffs2" path="external/yaffs2" revision="64a7dfb5cd56d758a74a4f98e29724e84a276acc"/>
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
-  <project name="eos/platform/frameworks/av" path="frameworks/av" revision="2df63ad6bbf0ad0fd066592b44f2e15123513112"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="d6c2f3b0cbce11c1f3859cd4aa72db7f8a3ed69c"/>
+  <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="c2dc573255222e10f29436478c4c7a81e274f197"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -255,7 +255,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="593e57fd93e3bc920595d64811b4a6ebccccfc45"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="9d24b08d074a1914bea241be97e308f174d1b9d7"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
@@ -317,7 +317,7 @@
   <project name="eos/platform/system/vold" path="system/vold" revision="4053aaef6f067433a19d04b54af9e035982e108b"/>
   <project name="eos/platform/vendor/asus" path="vendor/asus" revision="c35cb8cd8e2d5e9047e2f7528bd4fd7f1e6f66ed"/>
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="cac4f1c8c5e782f8a1c4693d0d9e48ecab96efb6"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="f298c10ee11fe6f81753506d256e53d043062bb6"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="6c1d72608acd19d2d6a9a6864b385f0e9250be35"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="e8ea7d35f0a11708005f6cfff347a8479b96e406"/>
   <project name="eos/platform/vendor/invensense" path="vendor/invensense" revision="c1888dcde30e06d5c0b1f347c5edb40dae3be238"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="87125014ffe0b0f97bbf340ddf537bb91bd93726"/>
