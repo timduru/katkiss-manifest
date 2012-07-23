@@ -24,7 +24,7 @@
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b0301b20dc9a51a73d0f9ec24b335378cd8386ae"/>
   <project name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="8d9ac34d37025627d1fc7c0917373cc60d30e310"/>
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="34fcd94cfcae539afe539e15f7d94db8c4107367"/>
-  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="a00e07541f058c751c85c902ab7d66fb55bdd74a"/>
+  <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="61ec671baccfe6c71879333833f37dacee6b6d31"/>
   <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="b56e5ef99d9d7263d0905ea86eb197afa2d93d47"/>
   <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="ad38431f60c6998a13eda159c1872a7bd9fbaee5"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="4e8d47e422a475fbb11805b9e5f9a116835eb927"/>
@@ -192,7 +192,7 @@
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="c2dc573255222e10f29436478c4c7a81e274f197"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="3bd0c520facebbe43fa84c9cf808fa0a9e468d8a"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -200,7 +200,7 @@
   <project name="eos/platform/frameworks/ex" path="frameworks/ex" revision="3fc60c81dabab76c0617494dbbf016a2f2894c18"/>
   <project name="eos/platform/frameworks/mff" path="frameworks/mff" revision="b9669b8540a1e5c953374d53b115514335e23c27"/>
   <project name="eos/platform/frameworks/ml" path="frameworks/ml" revision="b019e89cbea221598c482b05ab68b7660b41aa23"/>
-  <project name="eos/platform/frameworks/native" path="frameworks/native" revision="f455c9a267332960334794428c2abc5f716ee6ea"/>
+  <project name="eos/platform/frameworks/native" path="frameworks/native" revision="1fda5ddec76f484ec4514aaa6e188bfb3b4709f7"/>
   <project name="eos/platform/frameworks/opt/calendar" path="frameworks/opt/calendar" revision="46e001bc78b36235758dde896a0f5d3aa5c9c98b"/>
   <project name="eos/platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="0805d75d3c4319f54fb3c854be2f7baab561cf1b"/>
   <project name="eos/platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon" revision="df9dd39c2047992a43b64e13bb0fc348a1630f3b"/>
@@ -255,7 +255,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="9d24b08d074a1914bea241be97e308f174d1b9d7"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="4bdc601505882cc0d53391060ef0275dc1d1d6d6"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
