@@ -18,7 +18,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="d27c9ed52f2f10a15e13ba5b1cf914320fcbbe7c"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="a34c82f832dba2a7edfab9ef25bfea877cb75be1"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7826a04b2e5d3eb4cfe7cae11db162d90d332623"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="384e7df239994f3110b00b51a8c638281610633d"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="7bff980dfb128a348a09a04824ac5aa8293e7d47"/>
   <project name="eos/device/sample" path="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="afdc44a36821cdaabfcdaf7a427423d134552eb1"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b0301b20dc9a51a73d0f9ec24b335378cd8386ae"/>
@@ -192,7 +192,7 @@
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="a0b5f61dd4feab4e6f9dfb33743625b1bea5f158"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="20cc899bfad210af530783466ef56b93d9ab3006"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -255,7 +255,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="4bdc601505882cc0d53391060ef0275dc1d1d6d6"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="2a563400e4b9816dcab69a81290a65dddc786f83"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
