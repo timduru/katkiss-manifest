@@ -6,8 +6,8 @@
   <default remote="eos" revision="jellybean"/>
   
   <project name="eos/device/asus/grouper" path="device/asus/grouper" revision="bb772e27f036480334448d704d5367cfb9b579cd"/>
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="590777d2ffd0183ad885b3bffce9619f0cab2854"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="fa40785cb372f4c245a09d76158b80c8fa9bd5f2"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="cbd60883db524c3a0180f6e00fe84f5b7cd22577"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="f0b8b8ec7c8624d75b498aa2e39af359dffdb506"/>
   <project name="eos/device/common" path="device/common" revision="8ffd5f8087a380e1daa9000a12908f83d376a6da"/>
   <project name="eos/device/generic/armv7-a" path="device/generic/armv7-a" revision="499f7e2d190e7dd649428364ff0219fbc26d2902"/>
   <project name="eos/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="a1bfdaa528c0972b2c7fd89841595bb1297ebc82"/>
@@ -192,7 +192,7 @@
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="3bd0c520facebbe43fa84c9cf808fa0a9e468d8a"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="a0b5f61dd4feab4e6f9dfb33743625b1bea5f158"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
