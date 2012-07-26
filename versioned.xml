@@ -18,7 +18,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="d27c9ed52f2f10a15e13ba5b1cf914320fcbbe7c"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="a34c82f832dba2a7edfab9ef25bfea877cb75be1"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7826a04b2e5d3eb4cfe7cae11db162d90d332623"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="5cf2fe8a6b31c71d074d5714d05cdd946c2879db"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="e3d0a3a56a1fc104d6dbfed9caf49e51c68b5407"/>
   <project name="eos/device/sample" path="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="43c6d2235dc5177111c987f8a5249942681c2d7f"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="6b1e659a034fa31d9b0e22ccb59ebc7cbc50fa1f"/>
@@ -192,7 +192,7 @@
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="96cad11b14b94be22602208d294bcf3f1fae2a0b"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="5a35ca080a47737496757a378b6d4c3fb942762f"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -317,10 +317,10 @@
   <project name="eos/platform/system/vold" path="system/vold" revision="4053aaef6f067433a19d04b54af9e035982e108b"/>
   <project name="eos/platform/vendor/asus" path="vendor/asus" revision="c35cb8cd8e2d5e9047e2f7528bd4fd7f1e6f66ed"/>
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="cac4f1c8c5e782f8a1c4693d0d9e48ecab96efb6"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="6c1d72608acd19d2d6a9a6864b385f0e9250be35"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="8bf4e731af879d832e9605d913eeb29d6c85d9fc"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="e8ea7d35f0a11708005f6cfff347a8479b96e406"/>
   <project name="eos/platform/vendor/invensense" path="vendor/invensense" revision="c1888dcde30e06d5c0b1f347c5edb40dae3be238"/>
-  <project name="eos/platform/vendor/moto" path="vendor/moto" revision="87125014ffe0b0f97bbf340ddf537bb91bd93726"/>
+  <project name="eos/platform/vendor/moto" path="vendor/moto" revision="4fa618554cd151e2c8b80d95ca49452200eaaa03"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="b458d15a7f88e9fd59cc344444019a78f66b5073"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="dae509f4b4a47bcd1b923b09d1c4274c3825fdb5"/>
   <project name="eos/platform/vendor/widevine" path="vendor/widevine" revision="729bb7fdd0eebfa03ab08beb5bcaf9983947174a"/>
