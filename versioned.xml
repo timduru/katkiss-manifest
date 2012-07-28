@@ -192,7 +192,7 @@
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="5a35ca080a47737496757a378b6d4c3fb942762f"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="5f0f5b32facc6d4bdad5f291b4635b938c9eea30"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -255,7 +255,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="852a037f1dd9af210936a10c2d3177a6358b25dc"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="15486400b8407a788c98ae9c0fd7e7b88c61fbf9"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
@@ -320,7 +320,7 @@
   <project name="eos/platform/vendor/eos" path="vendor/eos" revision="8bf4e731af879d832e9605d913eeb29d6c85d9fc"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="e8ea7d35f0a11708005f6cfff347a8479b96e406"/>
   <project name="eos/platform/vendor/invensense" path="vendor/invensense" revision="c1888dcde30e06d5c0b1f347c5edb40dae3be238"/>
-  <project name="eos/platform/vendor/moto" path="vendor/moto" revision="4fa618554cd151e2c8b80d95ca49452200eaaa03"/>
+  <project name="eos/platform/vendor/moto" path="vendor/moto" revision="11140979e288b556608f41077a2f172d8736ad21"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="b458d15a7f88e9fd59cc344444019a78f66b5073"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="dae509f4b4a47bcd1b923b09d1c4274c3825fdb5"/>
   <project name="eos/platform/vendor/widevine" path="vendor/widevine" revision="729bb7fdd0eebfa03ab08beb5bcaf9983947174a"/>
