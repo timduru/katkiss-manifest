@@ -340,4 +340,10 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="eos/platform/vendor/tmobile/apps/ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" />
+
+  <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
+  <project path="kernel/asus/tf101" name="eos/kernel/asus/tf101" />
+  <project path="kernel/asus/tf201" name="eos/kernel/asus/tf201" />
+  <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
+  <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
 </manifest>
