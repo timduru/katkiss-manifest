@@ -5,9 +5,9 @@
   
   <default remote="eos" revision="jellybean"/>
   
-  <project name="eos/device/asus/grouper" path="device/asus/grouper" revision="bb772e27f036480334448d704d5367cfb9b579cd"/>
-  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="cbd60883db524c3a0180f6e00fe84f5b7cd22577"/>
-  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="f0b8b8ec7c8624d75b498aa2e39af359dffdb506"/>
+  <project name="eos/device/asus/grouper" path="device/asus/grouper" revision="4caa460b825fa39a94e09e0862c800160e24d4f3"/>
+  <project name="eos/device/asus/tf101" path="device/asus/tf101" revision="56255f8729e52c86c170d6442eba1260f13e5136"/>
+  <project name="eos/device/asus/tf201" path="device/asus/tf201" revision="1b3aec7331e3ce2a27f6232d6d6697105d2bd883"/>
   <project name="eos/device/common" path="device/common" revision="8ffd5f8087a380e1daa9000a12908f83d376a6da"/>
   <project name="eos/device/generic/armv7-a" path="device/generic/armv7-a" revision="499f7e2d190e7dd649428364ff0219fbc26d2902"/>
   <project name="eos/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="a1bfdaa528c0972b2c7fd89841595bb1297ebc82"/>
@@ -18,7 +18,7 @@
   <project name="eos/device/moto/stingray" path="device/moto/stingray" revision="d27c9ed52f2f10a15e13ba5b1cf914320fcbbe7c"/>
   <project name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="a34c82f832dba2a7edfab9ef25bfea877cb75be1"/>
   <project name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7826a04b2e5d3eb4cfe7cae11db162d90d332623"/>
-  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="e3d0a3a56a1fc104d6dbfed9caf49e51c68b5407"/>
+  <project name="eos/device/moto/wingray" path="device/moto/wingray" revision="35e241155bf1837f80bd71ae447c8c740a4f1684"/>
   <project name="eos/device/sample" path="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
   <project name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="43c6d2235dc5177111c987f8a5249942681c2d7f"/>
   <project name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="6b1e659a034fa31d9b0e22ccb59ebc7cbc50fa1f"/>
@@ -26,14 +26,19 @@
   <project name="eos/device/samsung/toro" path="device/samsung/toro" revision="c2ad5d4d8e0ace8d3cd9e423c10b7622b5ecfdb7"/>
   <project name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="61ec671baccfe6c71879333833f37dacee6b6d31"/>
   <project name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="b56e5ef99d9d7263d0905ea86eb197afa2d93d47"/>
-  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="ad38431f60c6998a13eda159c1872a7bd9fbaee5"/>
+  <project name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="a7efa255b9b1810822deb5fbc1caf70d0d12f2ba"/>
   <project name="eos/device/ti/panda" path="device/ti/panda" revision="4e8d47e422a475fbb11805b9e5f9a116835eb927"/>
+  <project name="eos/kernel/asus/grouper" path="kernel/asus/grouper" revision="52027f9b8b346885702f8e32fa9d7f6430d849be"/>
+  <project name="eos/kernel/asus/tf101" path="kernel/asus/tf101" revision="7d30d0081d3a3b7a9eb5e48933a2ea089a696171"/>
+  <project name="eos/kernel/asus/tf201" path="kernel/asus/tf201" revision="074acce519ba7855aee92f3b9bc887ef6c101c01"/>
+  <project name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="c44e7e65243aa078f2cc71e616f0186da46277d1"/>
+  <project name="eos/kernel/samsung/tuna" path="kernel/samsung/tuna" revision="6fb96c91e9f849b0811fae847acf319234dc771c"/>
   <project name="eos/platform/abi/cpp" path="abi/cpp" revision="eb789ea833d8d800662b67914d9c1785a58c2caa"/>
   <project name="eos/platform/bionic" path="bionic" revision="77093f2a8bfad87572d053f3154cb201a4f59dcd"/>
   <project name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="b1fde5cd7d5158b8e6876139ca76a341d0e49708"/>
   <project name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="d2a0ffa065dbb98e9acbf873dff5eb129bf2be71"/>
   <project name="eos/platform/bootable/recovery" path="bootable/recovery" revision="0c0efa0285301d1d50f5151b1c3fc74952f9dda1"/>
-  <project name="eos/platform/build" path="build" revision="7fa94e6a4ffc7a3c8b49c45fc859192db982a401">
+  <project name="eos/platform/build" path="build" revision="3a4e1d3e715de3e78473bf504b0dea924ac4d8c9">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="eos/platform/cts" path="cts" revision="20eedcdccaeb0c345d5697ee046d7781e56d5540"/>
@@ -192,7 +197,7 @@
   <project name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="5f0f5b32facc6d4bdad5f291b4635b938c9eea30"/>
+  <project name="eos/platform/frameworks/base" path="frameworks/base" revision="315d2a72a57e301687ea9415cbc91febc629c6c9"/>
   <project name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -255,7 +260,7 @@
   <project name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="15486400b8407a788c98ae9c0fd7e7b88c61fbf9"/>
+  <project name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="8a3e99510235acb4ecc13d4ee1a12e270455ce2d"/>
   <project name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
@@ -317,12 +322,15 @@
   <project name="eos/platform/system/vold" path="system/vold" revision="4053aaef6f067433a19d04b54af9e035982e108b"/>
   <project name="eos/platform/vendor/asus" path="vendor/asus" revision="c35cb8cd8e2d5e9047e2f7528bd4fd7f1e6f66ed"/>
   <project name="eos/platform/vendor/broadcom" path="vendor/broadcom" revision="cac4f1c8c5e782f8a1c4693d0d9e48ecab96efb6"/>
-  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="8bf4e731af879d832e9605d913eeb29d6c85d9fc"/>
+  <project name="eos/platform/vendor/eos" path="vendor/eos" revision="0127abdc40f3a3a0317c501ca83be6f1a41b4f4b"/>
   <project name="eos/platform/vendor/imgtec" path="vendor/imgtec" revision="e8ea7d35f0a11708005f6cfff347a8479b96e406"/>
   <project name="eos/platform/vendor/invensense" path="vendor/invensense" revision="c1888dcde30e06d5c0b1f347c5edb40dae3be238"/>
   <project name="eos/platform/vendor/moto" path="vendor/moto" revision="11140979e288b556608f41077a2f172d8736ad21"/>
   <project name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="b458d15a7f88e9fd59cc344444019a78f66b5073"/>
   <project name="eos/platform/vendor/samsung" path="vendor/samsung" revision="dae509f4b4a47bcd1b923b09d1c4274c3825fdb5"/>
+  <project name="eos/platform/vendor/tmobile/apps/ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="a1bffa01b2e72b60d88904388184a5dceb8f2cdb"/>
+  <project name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="4c0f151c11b3de7b70f5ef1d67a69501147bf263"/>
+  <project name="eos/platform/vendor/tmobile/providers/ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="f0e7648d29b2ac034df08ad3dfc963cf3048d77b"/>
   <project name="eos/platform/vendor/widevine" path="vendor/widevine" revision="729bb7fdd0eebfa03ab08beb5bcaf9983947174a"/>
   <project name="solarnz/GooManager_prebuilt" path="packages/apps/GooManagerPrebuilt" remote="github" revision="1177a51ea9e20abb339964c23f9f744b5d5e14a0"/>
 </manifest>
