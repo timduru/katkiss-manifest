@@ -310,40 +310,46 @@
   <project path="system/security" name="eos/platform/system/security" />
   <project path="system/vold" name="eos/platform/system/vold" />
 
+  <!-- Eos added device trees -->
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
   <project path="device/asus/tf201" name="eos/device/asus/tf201" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
   <project path="device/samsung/toroplus" name="eos/device/samsung/toroplus" />
 
+  <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
-  <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
   <project path="external/iw" name="eos/platform/external/iw" />
-  <project path="vendor/eos" name="eos/platform/vendor/eos" />
+  <project path="external/iwmulticall" name="eos/platform/external/iwmulticall" />
+  <project path="external/libnl" name="eos/platform/external/libnl" />
+  <project path="external/ncurses" name="eos/platform/external/ncurses" />
+  <project path="external/ntfs-3g" name="eos/platform/external/ntfs-3g" />
+  <project path="external/powertop" name="eos/platform/external/powertop" />
   <project path="packages/apps/EosOverclockHelper" name="eos/platform/packages/apps/EosOverclockHelper" />
   <project path="packages/apps/EosStorageHelper" name="eos/platform/packages/apps/EosStorageHelper" />
-  <project path="external/ntfs-3g" name="eos/platform/external/ntfs-3g" />
-  <project path="external/ncurses" name="eos/platform/external/ncurses" />
-  <project path="external/libnl" name="eos/platform/external/libnl" />
-  <project path="external/powertop" name="eos/platform/external/powertop" />
+  <project path="packages/apps/GooManagerPrebuilt" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
+  <project path="vendor/eos" name="eos/platform/vendor/eos" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="eos/platform/vendor/tmobile/apps/ThemeChooser" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" />
 
+  <!-- Eos added proprietary binary repositories -->
+  <project path="vendor/akm" name="eos/platform/vendor/akm" />
   <project path="vendor/asus" name="eos/platform/vendor/asus" />
   <project path="vendor/broadcom" name="eos/platform/vendor/broadcom" />
   <project path="vendor/imgtec" name="eos/platform/vendor/imgtec" />
   <project path="vendor/invensense" name="eos/platform/vendor/invensense" />
   <project path="vendor/moto" name="eos/platform/vendor/moto" />
+  <project path="vendor/nxp" name="eos/platform/vendor/nxp" />
   <project path="vendor/nvidia" name="eos/platform/vendor/nvidia" />
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
 
-  <project path="packages/apps/GooManagerPrebuilt" name="solarnz/GooManager_prebuilt" remote="github" revision="master" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="eos/platform/vendor/tmobile/apps/ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" />
-
+  <!-- Eos added device kernel repositories -->
   <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
   <project path="kernel/asus/tf101" name="eos/kernel/asus/tf101" />
   <project path="kernel/asus/tf201" name="eos/kernel/asus/tf201" />
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
+  <project path="kernel/samsung/crespo" name="eos/kernel/samsung/crespo" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
 </manifest>
