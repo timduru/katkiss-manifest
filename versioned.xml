@@ -39,7 +39,7 @@
   <project groups="name:eos/platform/bootable/bootloader/legacy,path:bootable/bootloader/legacy" name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="b1fde5cd7d5158b8e6876139ca76a341d0e49708"/>
   <project groups="name:eos/platform/bootable/diskinstaller,path:bootable/diskinstaller" name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="d2a0ffa065dbb98e9acbf873dff5eb129bf2be71"/>
   <project groups="name:eos/platform/bootable/recovery,path:bootable/recovery" name="eos/platform/bootable/recovery" path="bootable/recovery" revision="0c0efa0285301d1d50f5151b1c3fc74952f9dda1"/>
-  <project groups="name:eos/platform/build,path:build" name="eos/platform/build" path="build" revision="1a0c801dc024ade92d49fc382ffab6dc81c85b0b">
+  <project groups="name:eos/platform/build,path:build" name="eos/platform/build" path="build" revision="9ecaac3c2fe1e1cff9924beb01dd3ca1e53f45af">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="name:eos/platform/cts,path:cts" name="eos/platform/cts" path="cts" revision="20eedcdccaeb0c345d5697ee046d7781e56d5540"/>
@@ -198,7 +198,7 @@
   <project groups="path:external/zlib,name:eos/platform/external/zlib" name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project groups="name:eos/platform/external/zxing,path:external/zxing" name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project groups="path:frameworks/av,name:eos/platform/frameworks/av" name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="136f5476a3f28dddbd84302095e7b13022cb4a9a"/>
+  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="6b1348a96fac90484e99f5cb88f4a680e9127053"/>
   <project groups="path:frameworks/compile/libbcc,name:eos/platform/frameworks/compile/libbcc" name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project groups="name:eos/platform/frameworks/compile/linkloader,path:frameworks/compile/linkloader" name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project groups="path:frameworks/compile/mclinker,name:eos/platform/frameworks/compile/mclinker" name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -257,11 +257,11 @@
   <project groups="name:eos/platform/packages/apps/MusicFX,path:packages/apps/MusicFX" name="eos/platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="d9fc04055aed9130f02627a73414ee12865a473d"/>
   <project groups="name:eos/platform/packages/apps/Nfc,path:packages/apps/Nfc" name="eos/platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="fd4b41a42a5b21acb11d4a78f9b0266841f9fd2c"/>
   <project groups="name:eos/platform/packages/apps/PackageInstaller,path:packages/apps/PackageInstaller" name="eos/platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="8c6cf864a36e1d93e057c2a28cbddbe720931197"/>
-  <project groups="name:eos/platform/packages/apps/Phone,path:packages/apps/Phone" name="eos/platform/packages/apps/Phone" path="packages/apps/Phone" revision="303ed7e54f9ba2b70f18a49219870d072c8da0d4"/>
+  <project groups="name:eos/platform/packages/apps/Phone,path:packages/apps/Phone" name="eos/platform/packages/apps/Phone" path="packages/apps/Phone" revision="76adf210dfd47b9358aca23e896cc9877774f16b"/>
   <project groups="name:eos/platform/packages/apps/Protips,path:packages/apps/Protips" name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project groups="name:eos/platform/packages/apps/Provision,path:packages/apps/Provision" name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project groups="path:packages/apps/QuickSearchBox,name:eos/platform/packages/apps/QuickSearchBox" name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="400a774558f7a3bb32486bc22afee9bf5b434ae6"/>
+  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="12e301bc0ee6e88140bfea8c1e7537625794aa3d"/>
   <project groups="name:eos/platform/packages/apps/SoundRecorder,path:packages/apps/SoundRecorder" name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project groups="path:packages/apps/SpareParts,name:eos/platform/packages/apps/SpareParts" name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project groups="path:packages/apps/SpeechRecorder,name:eos/platform/packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
@@ -308,7 +308,7 @@
   <project groups="name:eos/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6,path:prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="eos/platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" revision="ddd014fe1da895bff96f49d51a84423fd72c7970"/>
   <project groups="path:prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3,name:eos/platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" path="prebuilts/gcc/linux-x86/x86/i686-android-linux-4.4.3" revision="286506f01f8ca64d6eb0e33bafb475a5cf10ff37"/>
   <project groups="name:eos/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6,path:prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="eos/platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" revision="907c92922b6f593b6d122e3e02212d589ec70ff8"/>
-  <project groups="name:eos/platform/prebuilts/misc,path:prebuilts/misc" name="eos/platform/prebuilts/misc" path="prebuilts/misc" revision="af6235872ac0594fb3f27fe15c007453d67c614f"/>
+  <project groups="name:eos/platform/prebuilts/misc,path:prebuilts/misc" name="eos/platform/prebuilts/misc" path="prebuilts/misc" revision="05671f6089d1adfb23bf0ddc0d37a340a1f36de4"/>
   <project groups="name:eos/platform/prebuilts/ndk,path:prebuilts/ndk" name="eos/platform/prebuilts/ndk" path="prebuilts/ndk" revision="0e9345c19d21bd3652a706c23d5e46ed2d3c7f36"/>
   <project groups="path:prebuilts/qemu-kernel,name:eos/platform/prebuilts/qemu-kernel" name="eos/platform/prebuilts/qemu-kernel" path="prebuilts/qemu-kernel" revision="a0628ceaf72f362cf327d659bb0afb3939873998"/>
   <project groups="path:prebuilts/sdk,name:eos/platform/prebuilts/sdk" name="eos/platform/prebuilts/sdk" path="prebuilts/sdk" revision="a1611c77671c0a3687464de5137f67a84bcab434"/>
