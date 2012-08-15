@@ -5,7 +5,7 @@
   
   <default remote="eos" revision="jellybean"/>
   
-  <project groups="name:eos/device/asus/grouper,path:device/asus/grouper" name="eos/device/asus/grouper" path="device/asus/grouper" revision="4caa460b825fa39a94e09e0862c800160e24d4f3"/>
+  <project groups="name:eos/device/asus/grouper,path:device/asus/grouper" name="eos/device/asus/grouper" path="device/asus/grouper" revision="57a0624c04dfdb5dab47b017328e5e9e3cef1fdd"/>
   <project groups="name:eos/device/asus/tf101,path:device/asus/tf101" name="eos/device/asus/tf101" path="device/asus/tf101" revision="a23188549e82c30b12f28f3661c4a5169469ac39"/>
   <project groups="path:device/asus/tf201,name:eos/device/asus/tf201" name="eos/device/asus/tf201" path="device/asus/tf201" revision="1b3aec7331e3ce2a27f6232d6d6697105d2bd883"/>
   <project groups="name:eos/device/common,path:device/common" name="eos/device/common" path="device/common" revision="8ffd5f8087a380e1daa9000a12908f83d376a6da"/>
@@ -31,15 +31,15 @@
   <project groups="path:kernel/asus/grouper,name:eos/kernel/asus/grouper" name="eos/kernel/asus/grouper" path="kernel/asus/grouper" revision="cf33cf5b7a0c793e791c74214f571276d6a1ee3f"/>
   <project groups="path:kernel/asus/tf101,name:eos/kernel/asus/tf101" name="eos/kernel/asus/tf101" path="kernel/asus/tf101" revision="a79cdd3a46a65b71f71fc07f8e0ba9fa3237781b"/>
   <project groups="name:eos/kernel/asus/tf201,path:kernel/asus/tf201" name="eos/kernel/asus/tf201" path="kernel/asus/tf201" revision="0c6d491cd6a091caf1f36e1f0d0d9219013ee932"/>
-  <project groups="path:kernel/moto/wingray,name:eos/kernel/moto/wingray" name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="088ce333cc8475a132090e11872c76ac731f9b12"/>
+  <project groups="path:kernel/moto/wingray,name:eos/kernel/moto/wingray" name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="91a08733a1d07d5d78f8005c065af591c70ff085"/>
   <project groups="name:eos/kernel/samsung/crespo,path:kernel/samsung/crespo" name="eos/kernel/samsung/crespo" path="kernel/samsung/crespo" revision="42ca92e668c56f14012ba635d62ccdbf9f71af97"/>
   <project groups="path:kernel/samsung/tuna,name:eos/kernel/samsung/tuna" name="eos/kernel/samsung/tuna" path="kernel/samsung/tuna" revision="3fd99dfb54ee4de2a9cab8e75d79df0d4a48e1ec"/>
   <project groups="name:eos/platform/abi/cpp,path:abi/cpp" name="eos/platform/abi/cpp" path="abi/cpp" revision="eb789ea833d8d800662b67914d9c1785a58c2caa"/>
-  <project groups="name:eos/platform/bionic,path:bionic" name="eos/platform/bionic" path="bionic" revision="77093f2a8bfad87572d053f3154cb201a4f59dcd"/>
+  <project groups="name:eos/platform/bionic,path:bionic" name="eos/platform/bionic" path="bionic" revision="cae5cab69df5b209ce8a539703c85fd774fd10dd"/>
   <project groups="name:eos/platform/bootable/bootloader/legacy,path:bootable/bootloader/legacy" name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="b1fde5cd7d5158b8e6876139ca76a341d0e49708"/>
   <project groups="name:eos/platform/bootable/diskinstaller,path:bootable/diskinstaller" name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="d2a0ffa065dbb98e9acbf873dff5eb129bf2be71"/>
   <project groups="name:eos/platform/bootable/recovery,path:bootable/recovery" name="eos/platform/bootable/recovery" path="bootable/recovery" revision="0c0efa0285301d1d50f5151b1c3fc74952f9dda1"/>
-  <project groups="name:eos/platform/build,path:build" name="eos/platform/build" path="build" revision="9ecaac3c2fe1e1cff9924beb01dd3ca1e53f45af">
+  <project groups="name:eos/platform/build,path:build" name="eos/platform/build" path="build" revision="13da79ab34cdda5a35ffd567005d4029b95a48d3">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="name:eos/platform/cts,path:cts" name="eos/platform/cts" path="cts" revision="20eedcdccaeb0c345d5697ee046d7781e56d5540"/>
@@ -174,7 +174,7 @@
   <project groups="name:eos/platform/external/smali,path:external/smali" name="eos/platform/external/smali" path="external/smali" revision="28333561005524c15818b98c7f8f07409451ff30"/>
   <project groups="path:external/sonivox,name:eos/platform/external/sonivox" name="eos/platform/external/sonivox" path="external/sonivox" revision="e6d06460f6936adaf2c5df783700a683fd082878"/>
   <project groups="path:external/speex,name:eos/platform/external/speex" name="eos/platform/external/speex" path="external/speex" revision="ebe6230a7f7c69f5a4389f2b09b7b19ef9e94f32"/>
-  <project groups="name:eos/platform/external/sqlite,path:external/sqlite" name="eos/platform/external/sqlite" path="external/sqlite" revision="2d758ba484351cd86f3f551c3a788255d2e8d9d0"/>
+  <project groups="name:eos/platform/external/sqlite,path:external/sqlite" name="eos/platform/external/sqlite" path="external/sqlite" revision="f6a01468dffc904e64a1091e0684036c34cc042b"/>
   <project groups="path:external/srec,name:eos/platform/external/srec" name="eos/platform/external/srec" path="external/srec" revision="3b86e1f2371f3bfb4b798d5c7671bf8ed79f5caf"/>
   <project groups="path:external/srtp,name:eos/platform/external/srtp" name="eos/platform/external/srtp" path="external/srtp" revision="386ce4d9144fc190797f4e43a31aeaf76ca2e373"/>
   <project groups="name:eos/platform/external/stlport,path:external/stlport" name="eos/platform/external/stlport" path="external/stlport" revision="ec42173ef0955aa1844e0be303363c7e5dc98fb7"/>
@@ -198,7 +198,7 @@
   <project groups="path:external/zlib,name:eos/platform/external/zlib" name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project groups="name:eos/platform/external/zxing,path:external/zxing" name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project groups="path:frameworks/av,name:eos/platform/frameworks/av" name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="4b8c79bc989c282d9860a4780ee4b21f340c96c2"/>
+  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="be8f38cd8b38aa2b8d2cc65fdc92d2c88c729b33"/>
   <project groups="path:frameworks/compile/libbcc,name:eos/platform/frameworks/compile/libbcc" name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project groups="name:eos/platform/frameworks/compile/linkloader,path:frameworks/compile/linkloader" name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project groups="path:frameworks/compile/mclinker,name:eos/platform/frameworks/compile/mclinker" name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -261,7 +261,7 @@
   <project groups="name:eos/platform/packages/apps/Protips,path:packages/apps/Protips" name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project groups="name:eos/platform/packages/apps/Provision,path:packages/apps/Provision" name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project groups="path:packages/apps/QuickSearchBox,name:eos/platform/packages/apps/QuickSearchBox" name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="a08ad6ae0cc508bf038c271059a6b8e83da2a0e6"/>
+  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="73f67a3cccc491a84a46d65eb5b5ca2eecaafedd"/>
   <project groups="name:eos/platform/packages/apps/SoundRecorder,path:packages/apps/SoundRecorder" name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project groups="path:packages/apps/SpareParts,name:eos/platform/packages/apps/SpareParts" name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project groups="path:packages/apps/SpeechRecorder,name:eos/platform/packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
