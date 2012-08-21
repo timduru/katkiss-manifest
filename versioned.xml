@@ -20,11 +20,11 @@
   <project groups="name:eos/device/moto/umts_everest,path:device/moto/umts_everest" name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7826a04b2e5d3eb4cfe7cae11db162d90d332623"/>
   <project groups="name:eos/device/moto/wingray,path:device/moto/wingray" name="eos/device/moto/wingray" path="device/moto/wingray" revision="35e241155bf1837f80bd71ae447c8c740a4f1684"/>
   <project groups="name:eos/device/sample,path:device/sample" name="eos/device/sample" path="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
-  <project groups="path:device/samsung/crespo,name:eos/device/samsung/crespo" name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="43e381601163ca9d52f8261bfefb1e0feae0241a"/>
-  <project groups="name:eos/device/samsung/crespo4g,path:device/samsung/crespo4g" name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="68af396f48a104c33ba50918cac37cdf62c0807d"/>
+  <project groups="path:device/samsung/crespo,name:eos/device/samsung/crespo" name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="c1fe06f6f9e16fa948d86e00a25ea2eb858a2254"/>
+  <project groups="name:eos/device/samsung/crespo4g,path:device/samsung/crespo4g" name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b6ce33583bb2418fc29e7e8d1dc53fee94c7c4ff"/>
   <project groups="name:eos/device/samsung/maguro,path:device/samsung/maguro" name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="7f78030d15584151fd7e0f6c708a84764cd9ede7"/>
   <project groups="name:eos/device/samsung/toro,path:device/samsung/toro" name="eos/device/samsung/toro" path="device/samsung/toro" revision="c2ad5d4d8e0ace8d3cd9e423c10b7622b5ecfdb7"/>
-  <project groups="name:eos/device/samsung/toroplus,path:device/samsung/toroplus" name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="61ec671baccfe6c71879333833f37dacee6b6d31"/>
+  <project groups="name:eos/device/samsung/toroplus,path:device/samsung/toroplus" name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="248d9a5b0c3ba73c8c94a310126c05a50b750a50"/>
   <project groups="name:eos/device/samsung/torospr,path:device/samsung/torospr" name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="b56e5ef99d9d7263d0905ea86eb197afa2d93d47"/>
   <project groups="name:eos/device/samsung/tuna,path:device/samsung/tuna" name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="1719e96f11b47fd95415f506b72c85758f1e1355"/>
   <project groups="name:eos/device/ti/panda,path:device/ti/panda" name="eos/device/ti/panda" path="device/ti/panda" revision="4e8d47e422a475fbb11805b9e5f9a116835eb927"/>
@@ -198,7 +198,7 @@
   <project groups="path:external/zlib,name:eos/platform/external/zlib" name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project groups="name:eos/platform/external/zxing,path:external/zxing" name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project groups="path:frameworks/av,name:eos/platform/frameworks/av" name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="be8f38cd8b38aa2b8d2cc65fdc92d2c88c729b33"/>
+  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="ea1f670e0edd1faac375a9a85851b22cda09b566"/>
   <project groups="path:frameworks/compile/libbcc,name:eos/platform/frameworks/compile/libbcc" name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project groups="name:eos/platform/frameworks/compile/linkloader,path:frameworks/compile/linkloader" name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project groups="path:frameworks/compile/mclinker,name:eos/platform/frameworks/compile/mclinker" name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -261,7 +261,7 @@
   <project groups="name:eos/platform/packages/apps/Protips,path:packages/apps/Protips" name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project groups="name:eos/platform/packages/apps/Provision,path:packages/apps/Provision" name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project groups="path:packages/apps/QuickSearchBox,name:eos/platform/packages/apps/QuickSearchBox" name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="73f67a3cccc491a84a46d65eb5b5ca2eecaafedd"/>
+  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="03b782658cdedeb9a64a2d8027f46bba21fd947b"/>
   <project groups="name:eos/platform/packages/apps/SoundRecorder,path:packages/apps/SoundRecorder" name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project groups="path:packages/apps/SpareParts,name:eos/platform/packages/apps/SpareParts" name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project groups="path:packages/apps/SpeechRecorder,name:eos/platform/packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
