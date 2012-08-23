@@ -18,12 +18,12 @@
   <project groups="path:device/moto/stingray,name:eos/device/moto/stingray" name="eos/device/moto/stingray" path="device/moto/stingray" revision="eb848da2c805ce38ab85d8b23b9066db0d7a44fd"/>
   <project groups="path:device/moto/stingray_cdma,name:eos/device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="a34c82f832dba2a7edfab9ef25bfea877cb75be1"/>
   <project groups="name:eos/device/moto/umts_everest,path:device/moto/umts_everest" name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7826a04b2e5d3eb4cfe7cae11db162d90d332623"/>
-  <project groups="name:eos/device/moto/wingray,path:device/moto/wingray" name="eos/device/moto/wingray" path="device/moto/wingray" revision="35e241155bf1837f80bd71ae447c8c740a4f1684"/>
+  <project groups="name:eos/device/moto/wingray,path:device/moto/wingray" name="eos/device/moto/wingray" path="device/moto/wingray" revision="7ba7289931b5c9abf41f06e0327f81b799c352ed"/>
   <project groups="name:eos/device/sample,path:device/sample" name="eos/device/sample" path="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
   <project groups="path:device/samsung/crespo,name:eos/device/samsung/crespo" name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="c1fe06f6f9e16fa948d86e00a25ea2eb858a2254"/>
   <project groups="name:eos/device/samsung/crespo4g,path:device/samsung/crespo4g" name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b6ce33583bb2418fc29e7e8d1dc53fee94c7c4ff"/>
   <project groups="name:eos/device/samsung/maguro,path:device/samsung/maguro" name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="7f78030d15584151fd7e0f6c708a84764cd9ede7"/>
-  <project groups="name:eos/device/samsung/toro,path:device/samsung/toro" name="eos/device/samsung/toro" path="device/samsung/toro" revision="c2ad5d4d8e0ace8d3cd9e423c10b7622b5ecfdb7"/>
+  <project groups="name:eos/device/samsung/toro,path:device/samsung/toro" name="eos/device/samsung/toro" path="device/samsung/toro" revision="fdb5a4878b1ad546fabcb6bb2401db468e379b96"/>
   <project groups="name:eos/device/samsung/toroplus,path:device/samsung/toroplus" name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="248d9a5b0c3ba73c8c94a310126c05a50b750a50"/>
   <project groups="name:eos/device/samsung/torospr,path:device/samsung/torospr" name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="b56e5ef99d9d7263d0905ea86eb197afa2d93d47"/>
   <project groups="name:eos/device/samsung/tuna,path:device/samsung/tuna" name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="1719e96f11b47fd95415f506b72c85758f1e1355"/>
@@ -31,7 +31,7 @@
   <project groups="path:kernel/asus/grouper,name:eos/kernel/asus/grouper" name="eos/kernel/asus/grouper" path="kernel/asus/grouper" revision="cf33cf5b7a0c793e791c74214f571276d6a1ee3f"/>
   <project groups="path:kernel/asus/tf101,name:eos/kernel/asus/tf101" name="eos/kernel/asus/tf101" path="kernel/asus/tf101" revision="a79cdd3a46a65b71f71fc07f8e0ba9fa3237781b"/>
   <project groups="name:eos/kernel/asus/tf201,path:kernel/asus/tf201" name="eos/kernel/asus/tf201" path="kernel/asus/tf201" revision="0c6d491cd6a091caf1f36e1f0d0d9219013ee932"/>
-  <project groups="path:kernel/moto/wingray,name:eos/kernel/moto/wingray" name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="91a08733a1d07d5d78f8005c065af591c70ff085"/>
+  <project groups="path:kernel/moto/wingray,name:eos/kernel/moto/wingray" name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="22d21ba5cdb96dbbe90b6c4fb927d4d91da69547"/>
   <project groups="name:eos/kernel/samsung/crespo,path:kernel/samsung/crespo" name="eos/kernel/samsung/crespo" path="kernel/samsung/crespo" revision="42ca92e668c56f14012ba635d62ccdbf9f71af97"/>
   <project groups="path:kernel/samsung/tuna,name:eos/kernel/samsung/tuna" name="eos/kernel/samsung/tuna" path="kernel/samsung/tuna" revision="3fd99dfb54ee4de2a9cab8e75d79df0d4a48e1ec"/>
   <project groups="name:eos/platform/abi/cpp,path:abi/cpp" name="eos/platform/abi/cpp" path="abi/cpp" revision="eb789ea833d8d800662b67914d9c1785a58c2caa"/>
@@ -39,7 +39,7 @@
   <project groups="name:eos/platform/bootable/bootloader/legacy,path:bootable/bootloader/legacy" name="eos/platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="b1fde5cd7d5158b8e6876139ca76a341d0e49708"/>
   <project groups="name:eos/platform/bootable/diskinstaller,path:bootable/diskinstaller" name="eos/platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="d2a0ffa065dbb98e9acbf873dff5eb129bf2be71"/>
   <project groups="name:eos/platform/bootable/recovery,path:bootable/recovery" name="eos/platform/bootable/recovery" path="bootable/recovery" revision="0c0efa0285301d1d50f5151b1c3fc74952f9dda1"/>
-  <project groups="name:eos/platform/build,path:build" name="eos/platform/build" path="build" revision="13da79ab34cdda5a35ffd567005d4029b95a48d3">
+  <project groups="name:eos/platform/build,path:build" name="eos/platform/build" path="build" revision="2825219c2c1fb8b03fc93e59a2857ff270e001d0">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project groups="name:eos/platform/cts,path:cts" name="eos/platform/cts" path="cts" revision="20eedcdccaeb0c345d5697ee046d7781e56d5540"/>
