@@ -198,7 +198,7 @@
   <project groups="path:external/zlib,name:eos/platform/external/zlib" name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project groups="name:eos/platform/external/zxing,path:external/zxing" name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project groups="path:frameworks/av,name:eos/platform/frameworks/av" name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="ea1f670e0edd1faac375a9a85851b22cda09b566"/>
+  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="6f4c342ab5eb786d873d9fd436848af9a7efb44e"/>
   <project groups="path:frameworks/compile/libbcc,name:eos/platform/frameworks/compile/libbcc" name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project groups="name:eos/platform/frameworks/compile/linkloader,path:frameworks/compile/linkloader" name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project groups="path:frameworks/compile/mclinker,name:eos/platform/frameworks/compile/mclinker" name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
