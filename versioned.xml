@@ -6,8 +6,8 @@
   <default remote="eos" revision="jellybean"/>
   
   <project groups="name:eos/device/asus/grouper,path:device/asus/grouper" name="eos/device/asus/grouper" path="device/asus/grouper" revision="57a0624c04dfdb5dab47b017328e5e9e3cef1fdd"/>
-  <project groups="name:eos/device/asus/tf101,path:device/asus/tf101" name="eos/device/asus/tf101" path="device/asus/tf101" revision="a23188549e82c30b12f28f3661c4a5169469ac39"/>
-  <project groups="path:device/asus/tf201,name:eos/device/asus/tf201" name="eos/device/asus/tf201" path="device/asus/tf201" revision="1b3aec7331e3ce2a27f6232d6d6697105d2bd883"/>
+  <project groups="name:eos/device/asus/tf101,path:device/asus/tf101" name="eos/device/asus/tf101" path="device/asus/tf101" revision="d396904f0b8bb0056bdee9b175757164f429acd2"/>
+  <project groups="path:device/asus/tf201,name:eos/device/asus/tf201" name="eos/device/asus/tf201" path="device/asus/tf201" revision="a9004620dcb611fd8f3e928efc229d5131cc50cd"/>
   <project groups="name:eos/device/common,path:device/common" name="eos/device/common" path="device/common" revision="8ffd5f8087a380e1daa9000a12908f83d376a6da"/>
   <project groups="name:eos/device/generic/armv7-a,path:device/generic/armv7-a" name="eos/device/generic/armv7-a" path="device/generic/armv7-a" revision="499f7e2d190e7dd649428364ff0219fbc26d2902"/>
   <project groups="name:eos/device/generic/armv7-a-neon,path:device/generic/armv7-a-neon" name="eos/device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" revision="a1bfdaa528c0972b2c7fd89841595bb1297ebc82"/>
@@ -31,7 +31,7 @@
   <project groups="path:kernel/asus/grouper,name:eos/kernel/asus/grouper" name="eos/kernel/asus/grouper" path="kernel/asus/grouper" revision="cf33cf5b7a0c793e791c74214f571276d6a1ee3f"/>
   <project groups="path:kernel/asus/tf101,name:eos/kernel/asus/tf101" name="eos/kernel/asus/tf101" path="kernel/asus/tf101" revision="a79cdd3a46a65b71f71fc07f8e0ba9fa3237781b"/>
   <project groups="name:eos/kernel/asus/tf201,path:kernel/asus/tf201" name="eos/kernel/asus/tf201" path="kernel/asus/tf201" revision="0c6d491cd6a091caf1f36e1f0d0d9219013ee932"/>
-  <project groups="path:kernel/moto/wingray,name:eos/kernel/moto/wingray" name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="22d21ba5cdb96dbbe90b6c4fb927d4d91da69547"/>
+  <project groups="path:kernel/moto/wingray,name:eos/kernel/moto/wingray" name="eos/kernel/moto/wingray" path="kernel/moto/wingray" revision="d219f44a9d72839d0f5072c0bf9e8d6cc5e7bf36"/>
   <project groups="name:eos/kernel/samsung/crespo,path:kernel/samsung/crespo" name="eos/kernel/samsung/crespo" path="kernel/samsung/crespo" revision="42ca92e668c56f14012ba635d62ccdbf9f71af97"/>
   <project groups="path:kernel/samsung/tuna,name:eos/kernel/samsung/tuna" name="eos/kernel/samsung/tuna" path="kernel/samsung/tuna" revision="3fd99dfb54ee4de2a9cab8e75d79df0d4a48e1ec"/>
   <project groups="name:eos/platform/abi/cpp,path:abi/cpp" name="eos/platform/abi/cpp" path="abi/cpp" revision="eb789ea833d8d800662b67914d9c1785a58c2caa"/>
