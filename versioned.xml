@@ -5,7 +5,7 @@
   
   <default remote="eos" revision="jellybean"/>
   
-  <project groups="name:eos/device/asus/grouper,path:device/asus/grouper" name="eos/device/asus/grouper" path="device/asus/grouper" revision="57a0624c04dfdb5dab47b017328e5e9e3cef1fdd"/>
+  <project groups="name:eos/device/asus/grouper,path:device/asus/grouper" name="eos/device/asus/grouper" path="device/asus/grouper" revision="66292d06172053a227607787a181c5206d8b4f32"/>
   <project groups="name:eos/device/asus/tf101,path:device/asus/tf101" name="eos/device/asus/tf101" path="device/asus/tf101" revision="d396904f0b8bb0056bdee9b175757164f429acd2"/>
   <project groups="path:device/asus/tf201,name:eos/device/asus/tf201" name="eos/device/asus/tf201" path="device/asus/tf201" revision="a9004620dcb611fd8f3e928efc229d5131cc50cd"/>
   <project groups="name:eos/device/common,path:device/common" name="eos/device/common" path="device/common" revision="8ffd5f8087a380e1daa9000a12908f83d376a6da"/>
@@ -24,9 +24,9 @@
   <project groups="name:eos/device/samsung/crespo4g,path:device/samsung/crespo4g" name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b6ce33583bb2418fc29e7e8d1dc53fee94c7c4ff"/>
   <project groups="name:eos/device/samsung/maguro,path:device/samsung/maguro" name="eos/device/samsung/maguro" path="device/samsung/maguro" revision="7f78030d15584151fd7e0f6c708a84764cd9ede7"/>
   <project groups="name:eos/device/samsung/toro,path:device/samsung/toro" name="eos/device/samsung/toro" path="device/samsung/toro" revision="fdb5a4878b1ad546fabcb6bb2401db468e379b96"/>
-  <project groups="name:eos/device/samsung/toroplus,path:device/samsung/toroplus" name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="248d9a5b0c3ba73c8c94a310126c05a50b750a50"/>
+  <project groups="name:eos/device/samsung/toroplus,path:device/samsung/toroplus" name="eos/device/samsung/toroplus" path="device/samsung/toroplus" revision="0625a1b1a034cef92950ca5b8017f019d6c7478c"/>
   <project groups="name:eos/device/samsung/torospr,path:device/samsung/torospr" name="eos/device/samsung/torospr" path="device/samsung/torospr" revision="b56e5ef99d9d7263d0905ea86eb197afa2d93d47"/>
-  <project groups="name:eos/device/samsung/tuna,path:device/samsung/tuna" name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="1719e96f11b47fd95415f506b72c85758f1e1355"/>
+  <project groups="name:eos/device/samsung/tuna,path:device/samsung/tuna" name="eos/device/samsung/tuna" path="device/samsung/tuna" revision="f8782bbd38ac12e5da641f81950102cfdadb90bd"/>
   <project groups="name:eos/device/ti/panda,path:device/ti/panda" name="eos/device/ti/panda" path="device/ti/panda" revision="4e8d47e422a475fbb11805b9e5f9a116835eb927"/>
   <project groups="path:kernel/asus/grouper,name:eos/kernel/asus/grouper" name="eos/kernel/asus/grouper" path="kernel/asus/grouper" revision="cf33cf5b7a0c793e791c74214f571276d6a1ee3f"/>
   <project groups="path:kernel/asus/tf101,name:eos/kernel/asus/tf101" name="eos/kernel/asus/tf101" path="kernel/asus/tf101" revision="a79cdd3a46a65b71f71fc07f8e0ba9fa3237781b"/>
@@ -198,7 +198,7 @@
   <project groups="path:external/zlib,name:eos/platform/external/zlib" name="eos/platform/external/zlib" path="external/zlib" revision="7b332dbcb6a69c1919decb488c28d9b1fc5ba141"/>
   <project groups="name:eos/platform/external/zxing,path:external/zxing" name="eos/platform/external/zxing" path="external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f"/>
   <project groups="path:frameworks/av,name:eos/platform/frameworks/av" name="eos/platform/frameworks/av" path="frameworks/av" revision="9aa948ee28375251639f5d36e9086edfbf3b843c"/>
-  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="4486fbdcbcd51e61402c7292ffda99c9701e26e2"/>
+  <project groups="path:frameworks/base,name:eos/platform/frameworks/base" name="eos/platform/frameworks/base" path="frameworks/base" revision="57f261ddaf8869d6d38269d81430c1754cb01f82"/>
   <project groups="path:frameworks/compile/libbcc,name:eos/platform/frameworks/compile/libbcc" name="eos/platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="aa4a4b9cda3a611a82ac178572aecbe0dbd7f48c"/>
   <project groups="name:eos/platform/frameworks/compile/linkloader,path:frameworks/compile/linkloader" name="eos/platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f02779af9fc6f8de19f3feb71e1ad01ebf517f6"/>
   <project groups="path:frameworks/compile/mclinker,name:eos/platform/frameworks/compile/mclinker" name="eos/platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" revision="abe0db302735bbdf9cd84caee2a36e6c4538fc4d"/>
@@ -261,7 +261,7 @@
   <project groups="name:eos/platform/packages/apps/Protips,path:packages/apps/Protips" name="eos/platform/packages/apps/Protips" path="packages/apps/Protips" revision="99a56cb36dabe758e556362aefa92039dd5f3ed2"/>
   <project groups="name:eos/platform/packages/apps/Provision,path:packages/apps/Provision" name="eos/platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project groups="path:packages/apps/QuickSearchBox,name:eos/platform/packages/apps/QuickSearchBox" name="eos/platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="4825a957126bead9a482a75856909487c26ce00d"/>
-  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="f04a6828dce891322965cb661be44e501565bc40"/>
+  <project groups="path:packages/apps/Settings,name:eos/platform/packages/apps/Settings" name="eos/platform/packages/apps/Settings" path="packages/apps/Settings" revision="ce8276a5cca84408e9b7c80b4ab97f472aba8bb6"/>
   <project groups="name:eos/platform/packages/apps/SoundRecorder,path:packages/apps/SoundRecorder" name="eos/platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="de28200b196b869971368f90436f637273212065"/>
   <project groups="path:packages/apps/SpareParts,name:eos/platform/packages/apps/SpareParts" name="eos/platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project groups="path:packages/apps/SpeechRecorder,name:eos/platform/packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
@@ -330,7 +330,7 @@
   <project groups="name:eos/platform/vendor/moto,path:vendor/moto" name="eos/platform/vendor/moto" path="vendor/moto" revision="7867d7b1b17c224cf4072f9c7407dabf73e89d12"/>
   <project groups="name:eos/platform/vendor/nvidia,path:vendor/nvidia" name="eos/platform/vendor/nvidia" path="vendor/nvidia" revision="8b6be721a6925dc02f84b7c61ee29b1fbbeecd4a"/>
   <project groups="name:eos/platform/vendor/nxp,path:vendor/nxp" name="eos/platform/vendor/nxp" path="vendor/nxp" revision="576d69b7d8cba9a8632b490178fbf056d3c171cd"/>
-  <project groups="name:eos/platform/vendor/samsung,path:vendor/samsung" name="eos/platform/vendor/samsung" path="vendor/samsung" revision="cb4f08a2cd3a74fb62210a5a504ef433ac725aac"/>
+  <project groups="name:eos/platform/vendor/samsung,path:vendor/samsung" name="eos/platform/vendor/samsung" path="vendor/samsung" revision="bc5f91978beee2263af7ae0a3d4c194023ac5e80"/>
   <project groups="path:vendor/tmobile/apps/ThemeChooser,name:eos/platform/vendor/tmobile/apps/ThemeChooser" name="eos/platform/vendor/tmobile/apps/ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="a1bffa01b2e72b60d88904388184a5dceb8f2cdb"/>
   <project groups="name:eos/platform/vendor/tmobile/libs/com.tmobile.themes,path:vendor/tmobile/libs/com.tmobile.themes" name="eos/platform/vendor/tmobile/libs/com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="4c0f151c11b3de7b70f5ef1d67a69501147bf263"/>
   <project groups="name:eos/platform/vendor/tmobile/providers/ThemeManager,path:vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="f0e7648d29b2ac034df08ad3dfc963cf3048d77b"/>
