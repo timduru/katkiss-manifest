@@ -18,7 +18,7 @@
   <project groups="path:device/moto/stingray,name:eos/device/moto/stingray" name="eos/device/moto/stingray" path="device/moto/stingray" revision="eb848da2c805ce38ab85d8b23b9066db0d7a44fd"/>
   <project groups="path:device/moto/stingray_cdma,name:eos/device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" path="device/moto/stingray_cdma" revision="a34c82f832dba2a7edfab9ef25bfea877cb75be1"/>
   <project groups="name:eos/device/moto/umts_everest,path:device/moto/umts_everest" name="eos/device/moto/umts_everest" path="device/moto/umts_everest" revision="7826a04b2e5d3eb4cfe7cae11db162d90d332623"/>
-  <project groups="name:eos/device/moto/wingray,path:device/moto/wingray" name="eos/device/moto/wingray" path="device/moto/wingray" revision="7ba7289931b5c9abf41f06e0327f81b799c352ed"/>
+  <project groups="name:eos/device/moto/wingray,path:device/moto/wingray" name="eos/device/moto/wingray" path="device/moto/wingray" revision="3ac240f221db6c803b82b4b1702f11aefea18e25"/>
   <project groups="name:eos/device/sample,path:device/sample" name="eos/device/sample" path="device/sample" revision="f036071aa92009d493af7bb39a615e6fc13113b0"/>
   <project groups="path:device/samsung/crespo,name:eos/device/samsung/crespo" name="eos/device/samsung/crespo" path="device/samsung/crespo" revision="c1fe06f6f9e16fa948d86e00a25ea2eb858a2254"/>
   <project groups="name:eos/device/samsung/crespo4g,path:device/samsung/crespo4g" name="eos/device/samsung/crespo4g" path="device/samsung/crespo4g" revision="b6ce33583bb2418fc29e7e8d1dc53fee94c7c4ff"/>
