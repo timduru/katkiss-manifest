@@ -313,6 +313,7 @@
   <!-- Eos added device trees -->
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
   <project path="device/asus/tf201" name="eos/device/asus/tf201" />
+  <project path="device/asus/tf700t" name="eos/device/asus/tf700t" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
   <project path="device/samsung/toroplus" name="eos/device/samsung/toroplus" />
@@ -349,6 +350,7 @@
   <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
   <project path="kernel/asus/tf101" name="eos/kernel/asus/tf101" />
   <project path="kernel/asus/tf201" name="eos/kernel/asus/tf201" />
+  <project path="kernel/asus/tf700t" name="eos/kernel/asus/tf700t" />
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
   <project path="kernel/samsung/crespo" name="eos/kernel/samsung/crespo" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
