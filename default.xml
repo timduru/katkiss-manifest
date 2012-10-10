@@ -338,6 +338,7 @@
   <project path="vendor/akm" name="eos/platform/vendor/akm" />
   <project path="vendor/asus" name="eos/platform/vendor/asus" />
   <project path="vendor/broadcom" name="eos/platform/vendor/broadcom" />
+  <project path="vendor/elan" name="eos/platform/vendor/elan" />
   <project path="vendor/imgtec" name="eos/platform/vendor/imgtec" />
   <project path="vendor/invensense" name="eos/platform/vendor/invensense" />
   <project path="vendor/moto" name="eos/platform/vendor/moto" />
