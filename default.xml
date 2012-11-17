@@ -9,7 +9,7 @@
   <remote   name="github"
             fetch="git://github.com/" />
 
-  <default revision="jellybean"
+  <default revision="jellybean-4.2"
            remote="eos"
            />
 
@@ -35,6 +35,8 @@
   <project path="device/generic/x86" name="eos/device/generic/x86" />
   <project path="device/google/accessory/arduino" name="eos/device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="eos/device/google/accessory/demokit" />
+  <project path="device/lge/mako" name="eos/device/lge/mako" groups="device" />
+  <project path="device/lge/mako-kernel" name="eos/device/lge/mako-kernel" groups="device" />
   <project path="device/moto/common" name="eos/device/moto/common" />
   <project path="device/moto/stingray" name="eos/device/moto/stingray" groups="device" />
   <project path="device/moto/wingray" name="eos/device/moto/wingray" groups="device" />
@@ -235,8 +237,17 @@
   <project path="hardware/libhardware" name="eos/platform/hardware/libhardware" />
   <project path="hardware/libhardware_legacy" name="eos/platform/hardware/libhardware_legacy" />
   <project path="hardware/msm7k" name="eos/platform/hardware/msm7k" />
+  <project path="hardware/qcom/audio" name="eos/platform/hardware/qcom/audio" />
+  <project path="hardware/qcom/bt" name="eos/platform/hardware/qcom/bt" />
+  <project path="hardware/qcom/camera" name="eos/platform/hardware/qcom/camera" />
+  <project path="hardware/qcom/display" name="eos/platform/hardware/qcom/display" />
   <project path="hardware/qcom/gps" name="eos/platform/hardware/qcom/gps" />
+  <project path="hardware/qcom/keymaster" name="eos/platform/hardware/qcom/keymaster" />
   <project path="hardware/qcom/media" name="eos/platform/hardware/qcom/media" />
+  <project path="hardware/qcom/msm8960" name="eos/platform/hardware/qcom/msm8960" />
+  <project path="hardware/qcom/power" name="eos/platform/hardware/qcom/power" />
+  <project path="hardware/qcom/sensors" name="eos/platform/hardware/qcom/sensors" />
+  <project path="hardware/qcom/wlan" name="eos/platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="eos/platform/hardware/ril" />
   <project path="hardware/samsung_slsi/exynos5" name="eos/platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/ti/omap3" name="eos/platform/hardware/ti/omap3" />
@@ -338,6 +349,8 @@
   <project path="system/netd" name="eos/platform/system/netd" />
   <project path="system/security" name="eos/platform/system/security" />
   <project path="system/vold" name="eos/platform/system/vold" />
+  <project path="tools/build" name="eos/platform/tools/build" groups="toolsbuild" />
+  <project path="tools/motodev" name="platform/tools/motodev" />
 
   <!-- Eos added device trees -->
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
