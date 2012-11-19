@@ -350,7 +350,7 @@
   <project path="system/security" name="eos/platform/system/security" />
   <project path="system/vold" name="eos/platform/system/vold" />
   <project path="tools/build" name="eos/platform/tools/build" groups="toolsbuild" />
-  <project path="tools/motodev" name="platform/tools/motodev" />
+  <project path="tools/motodev" name="eos/platform/tools/motodev" />
 
   <!-- Eos added device trees -->
   <project path="device/asus/tf101" name="eos/device/asus/tf101" />
