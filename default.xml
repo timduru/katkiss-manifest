@@ -358,6 +358,7 @@
   <project path="device/asus/tf700t" name="eos/device/asus/tf700t" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
+  <project path="device/sony/nozomi" name="eos/device/sony/nozomi" />
 
   <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
@@ -396,4 +397,5 @@
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
   <project path="kernel/samsung/crespo" name="eos/kernel/samsung/crespo" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
+  <project path="kernel/sony/msm8x60" name="eos/kernel/sony/msm8x60" />
 </manifest>
