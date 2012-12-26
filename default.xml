@@ -393,6 +393,7 @@
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
   <project path="vendor/lge" name="eos/platform/vendor/lge" />
+  <project path="vendor/qcom/opensource/v8" name="eos/platform/vendor/qcom/opensource/v8" />
 
   <!-- Eos added device kernel repositories -->
   <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
