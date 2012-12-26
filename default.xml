@@ -238,12 +238,16 @@
   <project path="hardware/libhardware_legacy" name="eos/platform/hardware/libhardware_legacy" />
   <project path="hardware/msm7k" name="eos/platform/hardware/msm7k" />
   <project path="hardware/qcom/audio" name="eos/platform/hardware/qcom/audio" />
+  <project path="hardware/qcom/audio-caf" name="eos/platform/hardware/qcom/audio-caf" />
   <project path="hardware/qcom/bt" name="eos/platform/hardware/qcom/bt" />
   <project path="hardware/qcom/camera" name="eos/platform/hardware/qcom/camera" />
   <project path="hardware/qcom/display" name="eos/platform/hardware/qcom/display" />
+  <project path="hardware/qcom/display-caf" name="eos/platform/hardware/qcom/display-caf" />
   <project path="hardware/qcom/gps" name="eos/platform/hardware/qcom/gps" />
   <project path="hardware/qcom/keymaster" name="eos/platform/hardware/qcom/keymaster" />
   <project path="hardware/qcom/media" name="eos/platform/hardware/qcom/media" />
+  <project path="hardware/qcom/mm-core" name="eos/platform/hardware/qcom/mm-core" />
+  <project path="hardware/qcom/mm-video" name="eos/platform/hardware/qcom/mm-video" />
   <project path="hardware/qcom/msm8960" name="eos/platform/hardware/qcom/msm8960" />
   <project path="hardware/qcom/power" name="eos/platform/hardware/qcom/power" />
   <project path="hardware/qcom/sensors" name="eos/platform/hardware/qcom/sensors" />
