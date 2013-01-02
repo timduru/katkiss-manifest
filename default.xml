@@ -405,4 +405,5 @@
   <project path="kernel/samsung/crespo" name="eos/kernel/samsung/crespo" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/sony/msm8x60" name="eos/kernel/sony/msm8x60" />
+  <project path="kernel/lge/mako" name="eos/kernel/lge/mako" />
 </manifest>
