@@ -258,6 +258,10 @@
   <project path="hardware/qcom/wlan" name="eos/platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="eos/platform/hardware/ril" />
   <project path="hardware/samsung_slsi/exynos5" name="eos/platform/hardware/samsung_slsi/exynos5" />
+  <project path="hardware/samsung/exynos" name="eos/platform/hardware/samsung/exynos" />
+  <project path="hardware/samsung/exynos3" name="eos/platform/hardware/samsung/exynos3" />
+  <project path="hardware/samsung/exynos4" name="eos/platform/hardware/samsung/exynos4" />
+  <project path="hardware/samsung/macloader" name="eos/platform/hardware/samsung/macloader" />
   <project path="hardware/ti/omap3" name="eos/platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="eos/platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
