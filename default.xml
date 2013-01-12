@@ -48,6 +48,10 @@
   <project path="device/samsung/toro" name="eos/device/samsung/toro" groups="device" />
   <project path="device/samsung/toroplus" name="eos/device/samsung/toroplus" groups="device" />
   <project path="device/samsung/tuna" name="eos/device/samsung/tuna" groups="device" />
+  <project path="device/samsung/n8000" name="eos/device/samsung/n8000" groups="device" />
+  <project path="device/samsung/n80xx-common" name="eos/device/samsung/n80xx-common" groups="device" />
+  <project path="device/samsung/smdk4412-common" name="eos/device/samsung/smdk4412-common" groups="device" />
+  <project path="device/samsung/n8013" name="eos/device/samsung/n8013" groups="device" />
   <project path="device/ti/panda" name="eos/device/ti/panda" groups="device" />
   <project path="docs/source.android.com" name="eos/platform/docs/source.android.com" />
   <project path="external/aac" name="eos/platform/external/aac" />
@@ -406,4 +410,5 @@
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/sony/msm8x60" name="eos/kernel/sony/msm8x60" />
   <project path="kernel/lge/mako" name="eos/kernel/lge/mako" />
+  <project path="kernel/samsung/smdk4412" name="eos/kernel/samsung/smdk4412" />
 </manifest>
