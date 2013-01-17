@@ -300,6 +300,7 @@
   <project path="packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="eos/platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="eos/platform/packages/apps/Tag" />
+  <project path="packages/apps/Trebuchet" name="eos/platform/packages/apps/Trebuchet" />
   <project path="packages/apps/VideoEditor" name="eos/platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="eos/platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="eos/platform/packages/experimental" />
