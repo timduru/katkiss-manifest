@@ -369,6 +369,7 @@
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
   <project path="device/sony/nozomi" name="eos/device/sony/nozomi" />
+  <project path="device/sony/fuji-common" name="eos/device/sony/fuji-common" />
 
   <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
