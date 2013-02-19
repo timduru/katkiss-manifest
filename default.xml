@@ -371,6 +371,7 @@
   <project path="device/sony/nozomi" name="eos/device/sony/nozomi" />
   <project path="device/sony/fuji-common" name="eos/device/sony/fuji-common" />
   <project path="device/samsung/d2mtr" name="eos/device/samsung/d2mtr" />
+  <project path="device/samsung/d2spr" name="eos/device/samsung/d2spr" />
   <project path="device/samsung/d2-common" name="eos/device/samsung/d2-common" />
   <project path="device/samsung/qcom-common" name="eos/device/samsung/qcom-common" />
   <project path="device/samsung/msm8960-common" name="eos/device/samsung/msm8960-common" />
