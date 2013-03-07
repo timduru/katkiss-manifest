@@ -41,8 +41,6 @@
   <project path="device/moto/stingray" name="eos/device/moto/stingray" groups="device" />
   <project path="device/moto/wingray" name="eos/device/moto/wingray" groups="device" />
   <project path="device/sample" name="eos/device/sample" />
-  <project path="device/samsung/crespo" name="eos/device/samsung/crespo" groups="device" />
-  <project path="device/samsung/crespo4g" name="eos/device/samsung/crespo4g" groups="device" />
   <project path="device/samsung/maguro" name="eos/device/samsung/maguro" groups="device" />
   <project path="device/samsung/manta" name="eos/device/samsung/manta" groups="device" />
   <project path="device/samsung/toro" name="eos/device/samsung/toro" groups="device" />
@@ -300,7 +298,6 @@
   <project path="packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="eos/platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="eos/platform/packages/apps/Tag" />
-  <project path="packages/apps/Trebuchet" name="eos/platform/packages/apps/Trebuchet" />
   <project path="packages/apps/VideoEditor" name="eos/platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="eos/platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="eos/platform/packages/experimental" />
@@ -369,7 +366,6 @@
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
   <project path="device/sony/nozomi" name="eos/device/sony/nozomi" />
-  <project path="device/sony/fuji-common" name="eos/device/sony/fuji-common" />
   <project path="device/samsung/d2mtr" name="eos/device/samsung/d2mtr" />
   <project path="device/samsung/d2spr" name="eos/device/samsung/d2spr" />
   <project path="device/samsung/d2-common" name="eos/device/samsung/d2-common" />
@@ -414,7 +410,6 @@
   <project path="kernel/asus/tf201" name="eos/kernel/asus/tf201" />
   <project path="kernel/asus/tf700t" name="eos/kernel/asus/tf700t" />
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
-  <project path="kernel/samsung/crespo" name="eos/kernel/samsung/crespo" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/sony/msm8x60" name="eos/kernel/sony/msm8x60" />
   <project path="kernel/lge/mako" name="eos/kernel/lge/mako" />
