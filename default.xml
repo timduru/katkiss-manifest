@@ -339,7 +339,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" groups="linux,arm" />
 
 <!-- Linaro 4.7 toolchain -->
-  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi" name="eos/platform/prebuilts/gcc/linux-x86/arm/android-toolchain-eabi" groups="linux,arm" />
+  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-4.7" name="eos/platform/prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-4.7" groups="linux,arm" />
 
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" />
