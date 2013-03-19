@@ -375,6 +375,8 @@
   <project path="device/samsung/d2-common" name="eos/device/samsung/d2-common" />
   <project path="device/samsung/qcom-common" name="eos/device/samsung/qcom-common" />
   <project path="device/samsung/msm8960-common" name="eos/device/samsung/msm8960-common" />
+  <project path="device/lge/gee-common" name="eos/device/lge/gee-common" />
+  <project path="device/lge/geehrc4g_spr_us" name="eos/device/lge/geehrc4g_spr_us" />
 
   <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
