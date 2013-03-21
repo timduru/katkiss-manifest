@@ -408,7 +408,7 @@
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
   <project path="vendor/lge" name="eos/platform/vendor/lge" />
   <project path="vendor/sony/nozomi" name="eos/platform/vendor/sony/nozomi" />
-  <project path="vendor/qcom/opensource/v8" name="eos/platform/vendor/qcom/opensource/v8" />
+  <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
 
   <!-- Eos added device kernel repositories -->
   <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
