@@ -248,6 +248,7 @@
   <project path="hardware/qcom/gps" name="eos/platform/hardware/qcom/gps" />
   <project path="hardware/qcom/keymaster" name="eos/platform/hardware/qcom/keymaster" />
   <project path="hardware/qcom/media" name="eos/platform/hardware/qcom/media" />
+  <project path="hardware/qcom/media-caf" name="eos/platform/hardware/qcom/media-caf" />
   <project path="hardware/qcom/mm-core" name="eos/platform/hardware/qcom/mm-core" />
   <project path="hardware/qcom/mm-video" name="eos/platform/hardware/qcom/mm-video" />
   <project path="hardware/qcom/msm8960" name="eos/platform/hardware/qcom/msm8960" />
