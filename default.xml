@@ -257,6 +257,7 @@
   <project path="hardware/ril" name="eos/platform/hardware/ril" />
   <project path="hardware/samsung_slsi/exynos5" name="eos/platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/samsung" name="eos/platform/hardware/samsung" />
+  <project path="hardware/sony/DASH" name="eos/platform/hardware/sony/DASH" />
   <project path="hardware/ti/omap3" name="eos/platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="eos/platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
