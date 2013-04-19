@@ -423,7 +423,7 @@
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/sony/msm8x60" name="eos/kernel/sony/msm8x60" />
   <project path="kernel/lge/mako" name="eos/kernel/lge/mako" />
-  <project path="kernel/lge/gee" name="eos/kernel/lge/gee" />
+  <project path="kernel/lge/gee_mako" name="eos/kernel/lge/gee_mako" />
   <project path="kernel/samsung/smdk4412" name="eos/kernel/samsung/smdk4412" />
   <project path="kernel/samsung/d2" name="eos/kernel/samsung/d2" />
 </manifest>
