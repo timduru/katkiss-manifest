@@ -413,7 +413,7 @@
   <project path="vendor/nvidia" name="eos/platform/vendor/nvidia" />
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
-  <project path="vendor/lge" name="eos/platform/vendor/lge" />
+  <project path="vendor/lge/mako" name="eos/platform/vendor/lge/mako" />
   <project path="vendor/sony/nozomi" name="RaymanFX/vendor_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
 
