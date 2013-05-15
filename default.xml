@@ -376,7 +376,7 @@
   <project path="device/asus/tf700t" name="eos/device/asus/tf700t" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
-  <project path="device/sony/nozomi" name="eos/device/sony/nozomi" />
+  <project path="device/sony/nozomi" name="RaymanFX/device_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="device/samsung/d2mtr" name="eos/device/samsung/d2mtr" />
   <project path="device/samsung/d2spr" name="eos/device/samsung/d2spr" />
   <project path="device/samsung/d2-common" name="eos/device/samsung/d2-common" />
@@ -414,7 +414,7 @@
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
   <project path="vendor/lge" name="eos/platform/vendor/lge" />
-  <project path="vendor/sony/nozomi" name="eos/platform/vendor/sony/nozomi" />
+  <project path="vendor/sony/nozomi" name="RaymanFX/vendor_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
 
   <!-- Eos added device kernel repositories -->
