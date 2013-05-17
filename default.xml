@@ -414,6 +414,7 @@
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
   <project path="vendor/lge/mako" name="eos/platform/vendor/lge/mako" />
+  <project path="vendor/lge/gee" name="Rlasalle15/android_vendor_lge_gee"  remote="github" revision="lgog"/>
   <project path="vendor/sony/nozomi" name="RaymanFX/vendor_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
 
