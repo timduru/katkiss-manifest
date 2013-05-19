@@ -346,7 +346,7 @@
 <!-- Linaro 4.7 toolchain -->
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7" name="eos/platform/prebuilts/gcc/linux-x86/arm/linaro-4.7" groups="linux,arm" />
 <!-- Linaro 4.8 toolchain -->
-  <project path="prebuilts/gcc/linux-x86/arm/linaro-4.8" name="eos/platform/prebuilts/gcc/linux-x86/arm/linaro-4.8" groups="linux,arm" />
+  <project path="prebuilts/gcc/linux-x86/arm/linaro-4.8" name="Rlasalle15/prebuilts-gcc-linux-x86-arm-linaro-4.8" remote="github" revision="linaro-4.8" groups="linux,arm" />
 <!-- Nozomi kernel support -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" groups="linux,arm" />
 
