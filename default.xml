@@ -391,6 +391,7 @@
   <project path="device/htc/m7ul" name="bigrushdog/android_device_htc_m7ul" remote="github" revision="cm-10.1" />
   <project path="device/htc/m7tmo" name="bigrushdog/android_device_htc_m7tmo" remote="github" revision="cm-10.1" />
   <project path="device/htc/m7att" name="bigrushdog/android_device_htc_m7att" remote="github" revision="cm-10.1" />
+  <project path="device/htc/msm8960-common" name="bigrushdog/android_device_htc_msm8960-common" remote="github" revision="cm-10.1" />
 
   <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
