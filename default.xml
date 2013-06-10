@@ -389,7 +389,7 @@
   <project path="device/htc/m7-common" name="bigrushdog/android_device_htc_m7-common" remote="github" revision="jellybean-4.2" />
   <project path="device/htc/m7spr" name="bigrushdog/android_device_htc_m7spr" remote="github" revision="cm-10.1" />
   <project path="device/htc/m7tmo" name="bigrushdog/android_device_htc_m7tmo" remote="github" revision="jellybean-4.2" />
-  <project path="device/htc/msm8960-common" name="bigrushdog/android_device_htc_msm8960-common" remote="github" revision="cm-10.1" />
+  <project path="device/htc/msm8960-common" name="bigrushdog/android_device_htc_msm8960-common" remote="github" revision="jellybean-4.2" />
 
   <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
