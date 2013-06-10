@@ -438,4 +438,5 @@
   <project path="kernel/lge/gee_mako" name="codefirex/kernel_lge_gee_mako" remote="bitbucket" revision="jb-devel" />
   <project path="kernel/samsung/smdk4412" name="eos/kernel/samsung/smdk4412" />
   <project path="kernel/samsung/d2" name="eos/kernel/samsung/d2" />
+  <project path="kernel/htc/m7" name="eos/kernel/htc/m7" />
 </manifest>
