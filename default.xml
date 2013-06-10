@@ -423,6 +423,7 @@
   <project path="vendor/lge/gee" name="Rlasalle15/android_vendor_lge_gee"  remote="github" revision="lgog"/>
   <project path="vendor/sony/nozomi" name="RaymanFX/vendor_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
+  <project path="vendor/htc/m7" name="eos/platform/vendor/htc/m7" />
 
   <!-- Eos added device kernel repositories -->
   <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
