@@ -243,16 +243,12 @@
   <project path="hardware/libhardware_legacy" name="eos/platform/hardware/libhardware_legacy" />
   <project path="hardware/msm7k" name="eos/platform/hardware/msm7k" />
   <project path="hardware/qcom/audio" name="eos/platform/hardware/qcom/audio" />
-  <project path="hardware/qcom/audio-caf" name="RaymanFX/android_hardware_qcom_audio-caf" remote="github" revision="jellybean-4.2" />
   <project path="hardware/qcom/bt" name="eos/platform/hardware/qcom/bt" />
   <project path="hardware/qcom/camera" name="eos/platform/hardware/qcom/camera" />
   <project path="hardware/qcom/display" name="eos/platform/hardware/qcom/display" />
-  <project path="hardware/qcom/display-caf" name="RaymanFX/android_hardware_qcom_display-caf" remote="github" revision="jellybean-4.2" />
   <project path="hardware/qcom/gps" name="eos/platform/hardware/qcom/gps" />
   <project path="hardware/qcom/keymaster" name="eos/platform/hardware/qcom/keymaster" />
   <project path="hardware/qcom/media" name="eos/platform/hardware/qcom/media" />
-  <project path="hardware/qcom/media-caf" name="RaymanFX/android_hardware_qcom_media-caf" remote="github" revision="cm-10.1" />
-  <project path="hardware/qcom/media-cm" name="RaymanFX/android_hardware_qcom_media-cm" remote="github" revision="jellybean-4.2" />
   <project path="hardware/qcom/mm-core" name="eos/platform/hardware/qcom/mm-core" />
   <project path="hardware/qcom/mm-video" name="eos/platform/hardware/qcom/mm-video" />
   <project path="hardware/qcom/msm8960" name="eos/platform/hardware/qcom/msm8960" />
@@ -262,7 +258,6 @@
   <project path="hardware/ril" name="eos/platform/hardware/ril" />
   <project path="hardware/samsung_slsi/exynos5" name="eos/platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/samsung" name="eos/platform/hardware/samsung" />
-  <project path="hardware/sony/DASH" name="RaymanFX/android_hardware_sony_DASH" remote="github" revision="jellybean-4.2" />
   <project path="hardware/ti/omap3" name="eos/platform/hardware/ti/omap3" />
   <project path="hardware/ti/omap4xxx" name="eos/platform/hardware/ti/omap4xxx" />
   <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
@@ -380,7 +375,6 @@
   <project path="device/asus/tf700t" name="eos/device/asus/tf700t" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
-  <project path="device/sony/nozomi" name="RaymanFX/device_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="device/samsung/d2mtr" name="eos/device/samsung/d2mtr" />
   <project path="device/samsung/d2spr" name="eos/device/samsung/d2spr" />
   <project path="device/samsung/d2-common" name="eos/device/samsung/d2-common" />
@@ -423,7 +417,6 @@
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
   <project path="vendor/lge/mako" name="eos/platform/vendor/lge/mako" />
   <project path="vendor/lge/gee" name="Rlasalle15/android_vendor_lge_gee"  remote="github" revision="lgog"/>
-  <project path="vendor/sony/nozomi" name="RaymanFX/vendor_sony_nozomi" remote="github" revision="jellybean-4.2" />
   <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
   <project path="vendor/htc/m7" name="eos/platform/vendor/htc/m7" />
 
@@ -435,7 +428,6 @@
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/samsung/manta" name="eos/kernel/samsung/manta" />
-  <project path="kernel/sony/msm8x60" name="RaymanFX/kernel_sony_msm8x60" remote="github" revision="teameos" />
   <project path="kernel/lge/mako" name="eos/kernel/lge/mako" />
   <project path="kernel/lge/gee_mako" name="codefirex/kernel_lge_gee_mako" remote="bitbucket" revision="jb-devel" />
   <project path="kernel/samsung/smdk4412" name="eos/kernel/samsung/smdk4412" />
