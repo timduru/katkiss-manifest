@@ -38,8 +38,6 @@
   <project path="device/generic/x86" name="eos/device/generic/x86" />
   <project path="device/google/accessory/arduino" name="eos/device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="eos/device/google/accessory/demokit" />
-  <project path="device/lge/mako" name="eos/device/lge/mako" groups="device" />
-  <project path="device/lge/mako-kernel" name="eos/device/lge/mako-kernel" groups="device" />
   <project path="device/moto/common" name="eos/device/moto/common" />
   <project path="device/moto/stingray" name="eos/device/moto/stingray" groups="device" />
   <project path="device/moto/wingray" name="eos/device/moto/wingray" groups="device" />
@@ -68,7 +66,7 @@
   <project path="external/astl" name="eos/platform/external/astl" />
   <project path="external/bison" name="eos/platform/external/bison" />
   <project path="external/blktrace" name="eos/platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="eos/platform/external/bluetooth/bluedroid" />
+  <project path="external/bluetooth/bluedroid" name="timduru/android-external-bluetooth-bluedroid" revision="katkiss" remote="github"/>
   <project path="external/bouncycastle" name="eos/platform/external/bouncycastle" />
   <project path="external/bsdiff" name="eos/platform/external/bsdiff" />
   <project path="external/bzip2" name="eos/platform/external/bzip2" />
@@ -300,6 +298,7 @@
   <project path="packages/apps/SpeechRecorder" name="eos/platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="eos/platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="eos/platform/packages/apps/Tag" />
+  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" revision="cm-10.1" remote="github"/>
   <project path="packages/apps/VideoEditor" name="eos/platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="eos/platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="eos/platform/packages/experimental" />
@@ -429,9 +428,5 @@
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/samsung/manta" name="eos/kernel/samsung/manta" />
-  <project path="kernel/lge/mako" name="eos/kernel/lge/mako" />
-  <project path="kernel/lge/gee_mako" name="codefirex/kernel_lge_gee_mako" remote="bitbucket" revision="jb-devel" />
-  <project path="kernel/samsung/smdk4412" name="eos/kernel/samsung/smdk4412" />
-  <project path="kernel/samsung/d2" name="eos/kernel/samsung/d2" />
   <project path="kernel/htc/m7" name="eos/kernel/htc/m7" />
 </manifest>
