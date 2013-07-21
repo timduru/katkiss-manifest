@@ -27,31 +27,14 @@
   <project path="cts" name="eos/platform/cts" />
   <project path="dalvik" name="eos/platform/dalvik" />
   <project path="development" name="eos/platform/development" groups="device" />
-  <project path="device/asus/grouper" name="eos/device/asus/grouper" groups="device"/>
-  <project path="device/asus/tilapia" name="eos/device/asus/tilapia" groups="device" />
   <project path="device/common" name="eos/device/common" />
   <project path="device/generic/armv7-a-neon" name="eos/device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="eos/device/generic/armv7-a" />
   <project path="device/generic/common" name="eos/device/generic/common" />
   <project path="device/generic/goldfish" name="eos/device/generic/goldfish" />
-  <project path="device/generic/mips" name="eos/device/generic/mips" />
   <project path="device/generic/x86" name="eos/device/generic/x86" />
-  <project path="device/google/accessory/arduino" name="eos/device/google/accessory/arduino" />
-  <project path="device/google/accessory/demokit" name="eos/device/google/accessory/demokit" />
-  <project path="device/moto/common" name="eos/device/moto/common" />
-  <project path="device/moto/stingray" name="eos/device/moto/stingray" groups="device" />
   <project path="device/moto/wingray" name="eos/device/moto/wingray" groups="device" />
   <project path="device/sample" name="eos/device/sample" />
-  <project path="device/samsung/maguro" name="eos/device/samsung/maguro" groups="device" />
-  <project path="device/samsung/manta" name="eos/device/samsung/manta" groups="device" />
-  <project path="device/samsung/toro" name="eos/device/samsung/toro" groups="device" />
-  <project path="device/samsung/toroplus" name="eos/device/samsung/toroplus" groups="device" />
-  <project path="device/samsung/tuna" name="eos/device/samsung/tuna" groups="device" />
-  <project path="device/samsung/n8000" name="eos/device/samsung/n8000" groups="device" />
-  <project path="device/samsung/n80xx-common" name="eos/device/samsung/n80xx-common" groups="device" />
-  <project path="device/samsung/smdk4412-common" name="eos/device/samsung/smdk4412-common" groups="device" />
-  <project path="device/samsung/n8013" name="eos/device/samsung/n8013" groups="device" />
-  <project path="device/ti/panda" name="eos/device/ti/panda" groups="device" />
   <project path="docs/source.android.com" name="eos/platform/docs/source.android.com" />
   <project path="external/aac" name="eos/platform/external/aac" />
   <project path="external/android-clat" name="eos/platform/external/android-clat" />
@@ -240,27 +223,9 @@
   <project path="hardware/invensense" name="eos/platform/hardware/invensense" />
   <project path="hardware/libhardware" name="eos/platform/hardware/libhardware" />
   <project path="hardware/libhardware_legacy" name="eos/platform/hardware/libhardware_legacy" />
-  <project path="hardware/msm7k" name="eos/platform/hardware/msm7k" />
-  <project path="hardware/qcom/audio" name="eos/platform/hardware/qcom/audio" />
-  <project path="hardware/qcom/bt" name="eos/platform/hardware/qcom/bt" />
-  <project path="hardware/qcom/camera" name="eos/platform/hardware/qcom/camera" />
-  <project path="hardware/qcom/display" name="eos/platform/hardware/qcom/display" />
-  <project path="hardware/qcom/gps" name="eos/platform/hardware/qcom/gps" />
-  <project path="hardware/qcom/keymaster" name="eos/platform/hardware/qcom/keymaster" />
-  <project path="hardware/qcom/media" name="eos/platform/hardware/qcom/media" />
-  <project path="hardware/qcom/mm-core" name="eos/platform/hardware/qcom/mm-core" />
-  <project path="hardware/qcom/mm-video" name="eos/platform/hardware/qcom/mm-video" />
-  <project path="hardware/qcom/msm8960" name="eos/platform/hardware/qcom/msm8960" />
-  <project path="hardware/qcom/power" name="eos/platform/hardware/qcom/power" />
-  <project path="hardware/qcom/sensors" name="eos/platform/hardware/qcom/sensors" />
-  <project path="hardware/qcom/wlan" name="eos/platform/hardware/qcom/wlan" />
   <project path="hardware/ril" name="eos/platform/hardware/ril" />
   <project path="hardware/samsung_slsi/exynos5" name="eos/platform/hardware/samsung_slsi/exynos5" />
   <project path="hardware/samsung" name="eos/platform/hardware/samsung" />
-  <project path="hardware/ti/omap3" name="eos/platform/hardware/ti/omap3" />
-  <project path="hardware/ti/omap4xxx" name="eos/platform/hardware/ti/omap4xxx" />
-  <project path="hardware/ti/wlan" name="eos/platform/hardware/ti/wlan" />
-  <project path="hardware/ti/wpan" name="eos/platform/hardware/ti/wpan" />
   <project path="libcore" name="timduru/platform-libcore"  revision="katkiss" remote="github"/>
   <project path="libnativehelper" name="eos/platform/libnativehelper" />
   <project path="ndk" name="eos/platform/ndk" />
@@ -343,8 +308,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7" name="eos/platform/prebuilts/gcc/linux-x86/arm/linaro-4.7" groups="linux,arm" />
 <!-- Linaro 4.8 toolchain -->
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.8" name="Rlasalle15/prebuilts-gcc-linux-x86-arm-linaro-4.8" remote="github" revision="linaro-4.8" groups="linux,arm" />
-<!-- Nozomi kernel support -->
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.4.3" groups="linux,arm" />
 
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="eos/platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="eos/platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" />
@@ -375,17 +338,6 @@
   <project path="device/asus/tf700t" name="eos/device/asus/tf700t" />
   <project path="device/moto/stingray_cdma" name="eos/device/moto/stingray_cdma" />
   <project path="device/moto/umts_everest" name="eos/device/moto/umts_everest" />
-  <project path="device/samsung/d2mtr" name="eos/device/samsung/d2mtr" />
-  <project path="device/samsung/d2spr" name="eos/device/samsung/d2spr" />
-  <project path="device/samsung/d2-common" name="eos/device/samsung/d2-common" />
-  <project path="device/samsung/qcom-common" name="eos/device/samsung/qcom-common" />
-  <project path="device/samsung/msm8960-common" name="eos/device/samsung/msm8960-common" />
-  <project path="device/lge/gee-common" name="Rlasalle15/android_device_lge_gee-common" remote="github" revision="lgog" />
-  <project path="device/lge/geehrc4g_spr_us" name="Rlasalle15/android_device_lge_geehrc4g_spr_us"  remote="github" revision="lgog" />
-  <project path="device/htc/m7-common" name="eos/device/htc/m7-common" />
-  <project path="device/htc/m7spr" name="eos/device/htc/m7spr" />
-  <project path="device/htc/m7tmo" name="eos/device/htc/m7tmo" />
-  <project path="device/htc/msm8960-common" name="eos/device/htc/msm8960-common" />
 
   <!-- Eos added packages / libraries -->
   <project path="external/busybox" name="eos/platform/external/busybox" />
@@ -404,21 +356,12 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="eos/platform/vendor/tmobile/providers/ThemeManager" />
 
   <!-- Eos added proprietary binary repositories -->
-  <project path="vendor/akm" name="eos/platform/vendor/akm" />
   <project path="vendor/asus" name="eos/platform/vendor/asus" />
   <project path="vendor/broadcom" name="eos/platform/vendor/broadcom" />
   <project path="vendor/elan" name="eos/platform/vendor/elan" />
-  <project path="vendor/imgtec" name="eos/platform/vendor/imgtec" />
-  <project path="vendor/invensense" name="eos/platform/vendor/invensense" />
-  <project path="vendor/moto" name="eos/platform/vendor/moto" />
-  <project path="vendor/nxp" name="eos/platform/vendor/nxp" />
   <project path="vendor/nvidia" name="eos/platform/vendor/nvidia" />
   <project path="vendor/samsung" name="eos/platform/vendor/samsung" />
   <project path="vendor/widevine" name="eos/platform/vendor/widevine" />
-  <project path="vendor/lge/mako" name="eos/platform/vendor/lge/mako" />
-  <project path="vendor/lge/gee" name="Rlasalle15/android_vendor_lge_gee"  remote="github" revision="lgog"/>
-  <project path="vendor/qcom" name="eos/platform/vendor/qcom" />
-  <project path="vendor/htc/m7" name="eos/platform/vendor/htc/m7" />
 
   <!-- Eos added device kernel repositories -->
   <project path="kernel/asus/grouper" name="eos/kernel/asus/grouper" />
@@ -428,5 +371,4 @@
   <project path="kernel/moto/wingray" name="eos/kernel/moto/wingray" />
   <project path="kernel/samsung/tuna" name="eos/kernel/samsung/tuna" />
   <project path="kernel/samsung/manta" name="eos/kernel/samsung/manta" />
-  <project path="kernel/htc/m7" name="eos/kernel/htc/m7" />
 </manifest>
