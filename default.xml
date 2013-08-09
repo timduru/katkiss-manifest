@@ -232,7 +232,7 @@
   <project path="hardware/broadcom/wlan" name="timduru/platform-hardware-broadcom-wlan"  revision="katkiss-4.3" remote="github" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="timduru/platform-hardware-libhardware"  revision="katkiss-4.3" remote="github" />
-  <project path="hardware/libhardware_legacy" name="timduru/platform-hardware-libhardware_legacy"  revision="katkiss-3.3" remote="github" />
+  <project path="hardware/libhardware_legacy" name="timduru/platform-hardware-libhardware_legacy"  revision="katkiss-4.3" remote="github" />
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/samsung" name="timduru/platform-hardware-samsung" revision="eos-4.2.2" remote="github" />
   <project path="libcore" name="timduru/platform-libcore" revision="aosp4.3_buildfix" remote="github"/>
