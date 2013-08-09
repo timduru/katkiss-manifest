@@ -28,7 +28,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="timduru/platform-bootable-recovery" revision="katkiss-4.3" remote="github" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="timduru/platform/dalvik" revision="katkiss-4.3" remote="github" />
+  <project path="dalvik" name="timduru/platform-dalvik" revision="katkiss-4.3" remote="github" />
   <project path="development" name="platform/development" groups="device" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
@@ -154,7 +154,7 @@
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external/openssh"  revision="aosp4.3_buildfix" remote="github"/>
+  <project path="external/openssh" name="timduru/platform-external-openssh"  revision="aosp4.3_buildfix" remote="github"/>
   <project path="external/openssl" name="timduru/platform-external-openssl"  revision="aosp4.3_buildfix" remote="github"/>
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
@@ -221,7 +221,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
-  <project path="frameworks/rs" name="timduru/platform/frameworks/rs"   revision="katkiss-4.3" remote="github" />
+  <project path="frameworks/rs" name="timduru/platform-frameworks-rs"   revision="katkiss-4.3" remote="github" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="platform/frameworks/volley" />
