@@ -23,12 +23,12 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="platform/bionic" />
+  <project path="bionic" name="timduru/platform-bionic"  revision="katkiss-4.3" remote="github" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="timduru/platform-bootable-recovery" revision="katkiss-4.3" remote="github" />
   <project path="cts" name="platform/cts" />
-  <project path="dalvik" name="timduru/platform/dalvik" revision="katkiss-4.3" remote="github" />
+  <project path="dalvik" name="timduru/platform-dalvik" revision="katkiss-4.3" remote="github" />
   <project path="development" name="platform/development" groups="device" />
   <project path="device/common" name="device/common" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
@@ -154,7 +154,7 @@
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external/openssh"  revision="aosp4.3_buildfix" remote="github"/>
+  <project path="external/openssh" name="platform/external-openssh"  revision="aosp4.3_buildfix" remote="github"/>
   <project path="external/openssl" name="timduru/platform-external-openssl"  revision="aosp4.3_buildfix" remote="github"/>
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
@@ -207,7 +207,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="platform/frameworks/native" />
+  <project path="frameworks/native" name="timduru/platform-frameworks-native" revision="cm10.2_katkiss-4.3" remote="github"/>
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" />
@@ -221,7 +221,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
-  <project path="frameworks/rs" name="timduru/platform/frameworks/rs"   revision="katkiss-4.3" remote="github" />
+  <project path="frameworks/rs" name="timduru/platform-frameworks-rs"   revision="katkiss-4.3_tempfix" remote="github" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="platform/frameworks/volley" />
@@ -232,7 +232,7 @@
   <project path="hardware/broadcom/wlan" name="timduru/platform-hardware-broadcom-wlan"  revision="katkiss-4.3" remote="github" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="timduru/platform-hardware-libhardware"  revision="katkiss-4.3" remote="github" />
-  <project path="hardware/libhardware_legacy" name="timduru/platform-hardware-libhardware_legacy"  revision="katkiss-3.3" remote="github" />
+  <project path="hardware/libhardware_legacy" name="timduru/platform-hardware-libhardware_legacy"  revision="katkiss-4.3" remote="github" />
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/samsung" name="timduru/platform-hardware-samsung" revision="eos-4.2.2" remote="github" />
   <project path="libcore" name="timduru/platform-libcore" revision="aosp4.3_buildfix" remote="github"/>
@@ -256,7 +256,7 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher2" name="timduru/platform-packages-apps-Launcher2" revision="katkiss-4.3" remote="github" />
+  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="timduru/platform-packages-apps-Mms"   revision="katkiss-4.3" remote="github" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
@@ -276,7 +276,7 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" />
-  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" revision="cm-10.1" remote="github"/>
+  <project path="packages/apps/Trebuchet" name="timduru/android-packages-apps-Trebuchet" revision="cm-10.2_katkiss-4.3" remote="github"/>
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/experimental" name="platform/packages/experimental" />
@@ -339,12 +339,12 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="timduru/platform-system-core"  revision="katkiss-4.3" remote="github"/>
-  <project path="system/extras" name="timduru/platform-system-extras"  revision="katkiss-4.3" remote="github"/>
+  <project path="system/core" name="timduru/android-system-core"  revision="cm-10.2" remote="github"/>
+  <project path="system/extras" name="timduru/platform-system-extras"  revision="cm-10.2_katkiss-4.3" remote="github"/>
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="timduru/platform-system-vold"  revision="katkiss-4.3" remote="github"/>
+  <project path="system/vold" name="timduru/platform-system-vold"  revision="cm-10.2" remote="github"/>
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
@@ -357,11 +357,11 @@
 
   <project path="tools/motodev" name="platform/tools/motodev" />
 
-  <!-- Eos added device trees -->
+  <!-- rom added device trees -->
   <project path="device/asus/tf101" name="timduru/device_asus_tf101" revision="katkiss-4.3" remote="github"/>
   <project path="device/asus/tf101g" name="ShevT/device_asus_tf101g_eos4" remote="github" revision="jellybean-4.2-staging" />
 
-  <!-- Eos added packages / libraries -->
+  <!-- rom added packages / libraries -->
   <project path="external/busybox" name="timduru/platform-external-busybox"  revision="katkiss" remote="github"/>
   <project path="external/iw" name="timduru/platform-external-iw"  revision="katkiss-4.3" remote="github"/>
   <project path="external/iwmulticall" name="timduru/platform-external-iwmulticall"   revision="katkiss-4.3" remote="github"/>
@@ -376,10 +376,10 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="timduru/platform-vendor-tmobile-libs-com.tmobile.themes"  revision="eos-4.2.2" remote="github"/>
   <project path="vendor/tmobile/providers/ThemeManager" name="timduru/platform-vendor-tmobile-providers-ThemeManager"  revision="eos-4.2.2" remote="github"/>
 
-  <!-- Eos added proprietary binary repositories -->
+  <!-- rom added proprietary binary repositories -->
   <project path="vendor/asus" name="timduru/platform-vendor-asus"  revision="eos-4.2.2" remote="github"/>
   <project path="vendor/widevine" name="timduru/platform-vendor-widevine"  revision="eos-4.2.2" remote="github"/>
 
-  <!-- Eos added device kernel repositories -->
+  <!-- rom added device kernel repositories -->
   <project path="kernel/asus/tf101" name="timduru/kernel-asus-tf101" revision="eos-4.2.2" remote="github"/>
 </manifest>
