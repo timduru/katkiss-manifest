@@ -154,7 +154,7 @@
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" />
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
-  <project path="external/openssh" name="platform/external-openssh"  revision="aosp4.3_buildfix" remote="github"/>
+  <project path="external/openssh" name="timduru/platform-external-openssh"  revision="aosp4.3_buildfix" remote="github"/>
   <project path="external/openssl" name="timduru/platform-external-openssl"  revision="aosp4.3_buildfix" remote="github"/>
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
