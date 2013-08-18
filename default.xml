@@ -378,7 +378,7 @@
 
   <!-- rom added proprietary binary repositories -->
   <project path="vendor/asus" name="timduru/platform-vendor-asus"  revision="eos-4.2.2" remote="github"/>
-  <project path="vendor/widevine" name="timduru/platform-vendor-widevine"  revision="eos-4.2.2" remote="github"/>
+  <project path="vendor/widevine" name="timduru/platform-vendor-widevine"  revision="katkiss-4.3" remote="github"/>
 
   <!-- rom added device kernel repositories -->
   <project path="kernel/asus/tf101" name="timduru/kernel-asus-tf101" revision="eos-4.2.2" remote="github"/>
