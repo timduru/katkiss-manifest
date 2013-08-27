@@ -12,7 +12,7 @@
             fetch="git://github.com/" />
 
   <!--<default revision="jb-mr2.0-release" -->
-  <default revision="refs/tags/android-4.3_r2.1"
+  <default revision="refs/tags/android-4.3_r2.2"
            remote="aosp"
            sync-j="4" />
 <!--  <default revision="jellybean-4.2"
@@ -240,7 +240,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="timduru/platform-packages-apps-Bluetooth"  revision="katkiss-4.3" remote="github" />
   <project path="packages/apps/Browser" name="timduru/platform-packages-apps-browser"  revision="katkiss-4.3" remote="github"/>
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
@@ -360,7 +360,7 @@
 
   <!-- rom added device trees -->
   <project path="device/asus/tf101" name="timduru/device_asus_tf101" revision="katkiss-4.3" remote="github"/>
-  <project path="device/asus/tf101g" name="ShevT/device_asus_tf101g_eos4" remote="github" revision="jellybean-4.2-staging" />
+  <project path="device/asus/tf101g" name="ShevT/device_asus_tf101g_katkiss" remote="github" revision="katkiss-4.3" />
 
   <!-- rom added packages / libraries -->
   <project path="external/busybox" name="timduru/platform-external-busybox"  revision="katkiss" remote="github"/>
