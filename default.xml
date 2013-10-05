@@ -12,7 +12,7 @@
             fetch="git://github.com/" />
 
   <!--<default revision="jb-mr2.0-release" -->
-  <default revision="refs/tags/android-4.3_r2.2"
+  <default revision="refs/tags/android-4.3_r3.1"
            remote="aosp"
            sync-j="4" />
 <!--  <default revision="jellybean-4.2"
@@ -340,7 +340,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
-  <project path="system/core" name="timduru/android-system-core"  revision="cm-10.2" remote="github"/>
+  <project path="system/core" name="timduru/android-system-core"  revision="cm-10.2_katkiss-4.3" remote="github"/>
   <project path="system/extras" name="timduru/platform-system-extras"  revision="cm-10.2_katkiss-4.3" remote="github"/>
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
