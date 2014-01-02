@@ -52,7 +52,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison"  groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="timduru/android-external-bluetooth-bluedroid" revision="katkiss-4.4" remote="github"/>
+  <project path="external/bluetooth/bluedroid" name="timduru/android-external-bluetooth-bluedroid" revision="cm-11.0" remote="github"/>
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
@@ -231,7 +231,7 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="timduru/platform-frameworks-av" revision="katkiss-4.4"  remote="github"/>
+  <project path="frameworks/av" name="timduru/platform-frameworks-av" revision="cm-11.0_katkiss-4.4"  remote="github"/>
   <project path="frameworks/base" name="timduru/platform-frameworks-base" revision="katkiss-4.4" remote="github"/>
   <project path="frameworks/compile/libbcc" name="timduru/platform-frameworks-compile-libbcc"  revision="aosp4.4_buildfix" remote="github"/>
   <project path="frameworks/compile/mclinker" name="timduru/platform-frameworks-compile-mclinker" revision="aosp4.4_buildfix" remote="github"/>
@@ -239,7 +239,7 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="timduru/platform-frameworks-native" revision="cm10.2_katkiss-4.4" remote="github"/>
+  <project path="frameworks/native" name="timduru/platform-frameworks-native" revision="katkiss-4.4" remote="github"/>
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" />
@@ -252,7 +252,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" />
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" />
-  <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
+  <project path="frameworks/opt/vcard" name="timduru/platform-frameworks-opt-vcard" revision="cm-11.0" remote="github"/>
   <project path="frameworks/rs" name="timduru/platform-frameworks-rs"   revision="katkiss-4.4_tempfix" remote="github" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
@@ -264,7 +264,7 @@
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="timduru/platform-hardware-broadcom-wlan"  revision="katkiss-4.4" remote="github" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
-  <project path="hardware/libhardware" name="timduru/platform-hardware-libhardware"  revision="katkiss-4.4" remote="github" />
+  <project path="hardware/libhardware" name="timduru/platform-hardware-libhardware"  revision="cm-11.0_katkiss-4.4" remote="github" />
   <project path="hardware/libhardware_legacy" name="timduru/platform-hardware-libhardware_legacy"  revision="katkiss-4.4" remote="github" />
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/samsung" name="timduru/platform-hardware-samsung" revision="eos-4.2.2" remote="github" />
@@ -376,12 +376,12 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" />
-  <project path="system/core" name="timduru/android-system-core"  revision="cm-10.2_katkiss-4.4" remote="github"/>
+  <project path="system/core" name="timduru/android-system-core"  revision="omni-katkiss-4.4" remote="github"/>
   <project path="system/extras" name="timduru/platform-system-extras"  revision="cm-10.2_katkiss-4.4" remote="github"/>
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/security" name="platform/system/security" />
-  <project path="system/vold" name="timduru/platform-system-vold"  revision="katkiss-4.4" remote="github"/>
+  <project path="system/vold" name="timduru/platform-system-vold"  revision="omni-katkiss-4.4" remote="github"/>
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
@@ -400,7 +400,7 @@
   <project path="device/asus/tf101g" name="ShevT/device_asus_tf101g_katkiss" remote="github" revision="katkiss-4.3" />
 
   <!-- rom added packages / libraries -->
-  <project path="external/busybox" name="timduru/platform-external-busybox"  revision="katkiss" remote="github"/>
+  <project path="external/busybox" name="timduru/platform-external-busybox"  revision="katkiss-4.4" remote="github"/>
   <project path="external/iw" name="timduru/platform-external-iw"  revision="katkiss-4.3" remote="github"/>
   <project path="external/iwmulticall" name="timduru/platform-external-iwmulticall"   revision="katkiss-4.3" remote="github"/>
   <project path="external/libnl" name="timduru/platform-external-libnl"   revision="katkiss-4.3" remote="github"/>
