@@ -52,7 +52,7 @@
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/bison" name="platform/external/bison"  groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" />
-  <project path="external/bluetooth/bluedroid" name="timduru/android-external-bluetooth-bluedroid" revision="cm-11.0" remote="github"/>
+  <project path="external/bluetooth/bluedroid" name="timduru/android-external-bluetooth-bluedroid" revision="omni-4.4" remote="github"/>
   <project path="external/bouncycastle" name="platform/external/bouncycastle" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
@@ -275,7 +275,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="timduru/platform-packages-apps-Bluetooth"  revision="katkiss-4.4" remote="github" />
+  <project path="packages/apps/Bluetooth" name="timduru/platform-packages-apps-Bluetooth"  revision="omni-4.4" remote="github" />
   <project path="packages/apps/Browser" name="timduru/platform-packages-apps-browser"  revision="katkiss-4.4" remote="github"/>
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
