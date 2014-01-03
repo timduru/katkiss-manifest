@@ -361,9 +361,9 @@
 
 <!-- Linaro 4.7 toolchain -->
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.7" name="timduru/platform-prebuilts-gcc-linux-x86-arm-linaro-4.7" groups="linux,arm"   revision="katkiss-4.3" remote="github" />
-<!-- Linaro 4.8 toolchain -->
+<!-- Linaro 4.8 toolchain 
   <project path="prebuilts/gcc/linux-x86/arm/linaro-4.8" name="Rlasalle15/prebuilts-gcc-linux-x86-arm-linaro-4.8" remote="github" revision="linaro-4.8" groups="linux,arm" />
-
+-->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" groups="linux,arm" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7" groups="pdk,darwin,arm" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" />
