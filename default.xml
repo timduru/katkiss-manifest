@@ -402,7 +402,7 @@
 
   <!-- rom added device trees -->
   <project path="device/asus/tf101" name="timduru/device_asus_tf101" revision="katkiss-4.4" remote="github"/>
-  <project path="device/asus/tf101g" name="ShevT/device_asus_tf101g_katkiss" remote="github" revision="katkiss-4.3" />
+  <project path="device/asus/tf101g" name="ShevT/device_asus_tf101g_katkiss" remote="github" revision="katkiss-4.4" />
 
   <!-- rom added packages / libraries -->
   <project path="external/busybox" name="timduru/platform-external-busybox"  revision="katkiss-4.4" remote="github"/>
