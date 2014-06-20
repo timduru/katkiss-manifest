@@ -12,7 +12,7 @@
             fetch="git://github.com/" />
 
   <!--<default revision="jb-mr2.0-release" -->
-  <default revision="refs/tags/android-4.4.3_r1.1"
+  <default revision="refs/tags/android-4.4.4_r1"
            remote="aosp"
            sync-j="4" />
 <!--  <default revision="jellybean-4.2"
@@ -61,7 +61,7 @@
   <project path="external/chromium" name="timduru/platform_external_chromium"  revision="aosp4.4_buildfix" remote="github"/>
   <project path="external/chromium-libpac" name="timduru/platform_external_chromium-libpac" revision="aosp4.4_buildfix" remote="github"/>
   <project path="external/chromium-trace" name="platform/external/chromium-trace" />
-  <project path="external/chromium_org" name="timduru/platform-external-chromium_org" revision="aosp-4.4.3_buildfix" remote="github" />
+  <project path="external/chromium_org" name="timduru/platform-external-chromium_org" revision="aosp-4.4_buildfix" remote="github" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
   <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" />
@@ -74,7 +74,7 @@
   <project path="external/chromium_org/third_party/libphonenumber/src/phonenumbers" name="platform/external/chromium_org/third_party/libphonenumber/src/phonenumbers" />
   <project path="external/chromium_org/third_party/libphonenumber/src/resources" name="platform/external/chromium_org/third_party/libphonenumber/src/resources" />
   <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" />
-  <project path="external/chromium_org/third_party/openssl" name="timduru/platform-external-chromium_org-third_party-openssl" revision="katkiss-4.4" remote="github" />
+  <project path="external/chromium_org/third_party/openssl" name="platform/external/chromium_org/third_party/openssl" />
   <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" />
   <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" />
   <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" />
@@ -153,7 +153,7 @@
   <project path="external/libogg" name="platform/external/libogg" />
   <project path="external/libpcap" name="platform/external/libpcap" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" />
-  <project path="external/libpng" name="timduru/platform-external-libpng"   revision="aosp4.4_buildfix" remote="github" />
+  <project path="external/libpng" name="timduru/platform-external-libpng"   revision="aosp_master" remote="github" />
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="platform/external/libselinux"  groups="pdk" />
   <project path="external/libsepol" name="platform/external/libsepol"  groups="pdk" />
@@ -265,7 +265,7 @@
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/volley" name="platform/frameworks/volley" />
-  <project path="frameworks/webview" name="timduru/platform-frameworks-webview"  revision="katkiss-4.4" remote="github"/>
+  <project path="frameworks/webview" name="platform/frameworks/webview" />
   <project path="frameworks/wilhelm" name="timduru/platform_frameworks_wilhelm"  revision="aosp4.4_buildfix" remote="github"/>
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
