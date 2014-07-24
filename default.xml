@@ -279,7 +279,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" name="timduru/platform-packages-apps-Bluetooth"  revision="omni-4.4" remote="github" />
+  <project path="packages/apps/Bluetooth" name="timduru/platform-packages-apps-Bluetooth"  revision="omni-KatKiss-4.4" remote="github" />
   <project path="packages/apps/Browser" name="timduru/platform-packages-apps-browser"  revision="katkiss-4.4" remote="github"/>
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
